@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 81fa1e1c533cbdb41a78288480ca501c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1985949040053106010
+    second: Eyeball Monster_Attack03(No beam effects)_0
+  - first:
+      213: 8412023268134122323
+    second: Eyeball Monster_Attack03(No beam effects)_1
+  - first:
+      213: 5566526391721228322
+    second: Eyeball Monster_Attack03(No beam effects)_2
+  - first:
+      213: -4221143068314174806
+    second: Eyeball Monster_Attack03(No beam effects)_3
+  - first:
+      213: -6028693921685581016
+    second: Eyeball Monster_Attack03(No beam effects)_4
+  - first:
+      213: -6854387965586930584
+    second: Eyeball Monster_Attack03(No beam effects)_5
+  - first:
+      213: 6894407768618781008
+    second: Eyeball Monster_Attack03(No beam effects)_6
+  - first:
+      213: -296624090577951261
+    second: Eyeball Monster_Attack03(No beam effects)_7
+  - first:
+      213: -6532648564123684840
+    second: Eyeball Monster_Attack03(No beam effects)_8
+  - first:
+      213: 576699294691512110
+    second: Eyeball Monster_Attack03(No beam effects)_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 41
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55b46241228f8b10800000000000000
+      internalID: 1985949040053106010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3537473f7928db470800000000000000
+      internalID: 8412023268134122323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 41
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2287163b246404d40800000000000000
+      internalID: 5566526391721228322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf7037ebc7b65c0800000000000000
+      internalID: -4221143068314174806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 41
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823df52d1d6c55ca0800000000000000
+      internalID: -6028693921685581016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8648a7e167250e0a0800000000000000
+      internalID: -6854387965586930584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 41
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0594731665bddaf50800000000000000
+      internalID: 6894407768618781008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 41
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5274116fd22ebf0800000000000000
+      internalID: -296624090577951261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 46
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81031fc0ebe5755a0800000000000000
+      internalID: -6532648564123684840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeball Monster_Attack03(No beam effects)_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 38
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4e4af3f8d00800800000000000000
+      internalID: 576699294691512110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eyeball Monster_Attack03(No beam effects)_0: 1985949040053106010
+      Eyeball Monster_Attack03(No beam effects)_1: 8412023268134122323
+      Eyeball Monster_Attack03(No beam effects)_2: 5566526391721228322
+      Eyeball Monster_Attack03(No beam effects)_3: -4221143068314174806
+      Eyeball Monster_Attack03(No beam effects)_4: -6028693921685581016
+      Eyeball Monster_Attack03(No beam effects)_5: -6854387965586930584
+      Eyeball Monster_Attack03(No beam effects)_6: 6894407768618781008
+      Eyeball Monster_Attack03(No beam effects)_7: -296624090577951261
+      Eyeball Monster_Attack03(No beam effects)_8: -6532648564123684840
+      Eyeball Monster_Attack03(No beam effects)_9: 576699294691512110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

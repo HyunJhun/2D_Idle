@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 3f3982404b9bd8849b02676737262a9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2594731911506231661
+    second: Ghostfire_0
+  - first:
+      213: 3505771568913064371
+    second: Ghostfire_1
+  - first:
+      213: -6676766572409073627
+    second: Ghostfire_2
+  - first:
+      213: -7454881955960406073
+    second: Ghostfire_3
+  - first:
+      213: 3594455851320701849
+    second: Ghostfire_4
+  - first:
+      213: -9048003285998874460
+    second: Ghostfire_5
+  - first:
+      213: 2397219780521243375
+    second: Ghostfire_6
+  - first:
+      213: 8235722214162407330
+    second: Ghostfire_7
+  - first:
+      213: 3388554640393517802
+    second: Ghostfire_8
+  - first:
+      213: 3419617251859202359
+    second: Ghostfire_9
+  - first:
+      213: 390349495374943282
+    second: Ghostfire_10
+  - first:
+      213: 9054257349104320568
+    second: Ghostfire_11
+  - first:
+      213: 7562565550055553674
+    second: Ghostfire_12
+  - first:
+      213: -2397304793341538042
+    second: Ghostfire_13
+  - first:
+      213: 1313650390094020524
+    second: Ghostfire_14
+  - first:
+      213: 5461488583385139459
+    second: Ghostfire_15
+  - first:
+      213: 1481053767857354816
+    second: Ghostfire_16
+  - first:
+      213: -1057986297015332514
+    second: Ghostfire_17
+  - first:
+      213: 5738234754267140693
+    second: Ghostfire_18
+  - first:
+      213: 4995706835827684035
+    second: Ghostfire_19
+  - first:
+      213: 9018458072625705677
+    second: Ghostfire_20
+  - first:
+      213: -6033152406775517803
+    second: Ghostfire_21
+  - first:
+      213: 3130938870720268678
+    second: Ghostfire_22
+  - first:
+      213: -5220215028021556700
+    second: Ghostfire_23
+  - first:
+      213: 4647774191545148381
+    second: Ghostfire_24
+  - first:
+      213: -1079251784253600911
+    second: Ghostfire_25
+  - first:
+      213: 4106772198208344284
+    second: Ghostfire_26
+  - first:
+      213: 3829922153894126876
+    second: Ghostfire_27
+  - first:
+      213: 7870696618209062151
+    second: Ghostfire_28
+  - first:
+      213: 666781482404558482
+    second: Ghostfire_29
+  - first:
+      213: -3691916487465320274
+    second: Ghostfire_30
+  - first:
+      213: 1716899503931081628
+    second: Ghostfire_31
+  - first:
+      213: 5533487512041696944
+    second: Ghostfire_32
+  - first:
+      213: 7957874200876064443
+    second: Ghostfire_33
+  - first:
+      213: -4691558447634854438
+    second: Ghostfire_34
+  - first:
+      213: -4644787312796775954
+    second: Ghostfire_35
+  - first:
+      213: 3989282282502352645
+    second: Ghostfire_36
+  - first:
+      213: 263687587529941941
+    second: Ghostfire_37
+  - first:
+      213: 1752756059339125613
+    second: Ghostfire_38
+  - first:
+      213: -124624351899348057
+    second: Ghostfire_39
+  - first:
+      213: 2890282087696068351
+    second: Ghostfire_40
+  - first:
+      213: 7342691447637904396
+    second: Ghostfire_41
+  - first:
+      213: 4579971266689149053
+    second: Ghostfire_42
+  - first:
+      213: 8733060043369112438
+    second: Ghostfire_43
+  - first:
+      213: -7065442478004784809
+    second: Ghostfire_44
+  - first:
+      213: 2624908890966117872
+    second: Ghostfire_45
+  - first:
+      213: -8802083113322965090
+    second: Ghostfire_46
+  - first:
+      213: 8805058068922135972
+    second: Ghostfire_47
+  - first:
+      213: 8686174992457442325
+    second: Ghostfire_48
+  - first:
+      213: -4153865793799691988
+    second: Ghostfire_49
+  - first:
+      213: 1255777393974517214
+    second: Ghostfire_50
+  - first:
+      213: -4890374033804934251
+    second: Ghostfire_51
+  - first:
+      213: -7007834990241826357
+    second: Ghostfire_52
+  - first:
+      213: 3444626007270382120
+    second: Ghostfire_53
+  - first:
+      213: 3818957693956099717
+    second: Ghostfire_54
+  - first:
+      213: 6057256973259322697
+    second: Ghostfire_55
+  - first:
+      213: -6605400710465651831
+    second: Ghostfire_56
+  - first:
+      213: -6651079534586652699
+    second: Ghostfire_57
+  - first:
+      213: 5891773622879916309
+    second: Ghostfire_58
+  - first:
+      213: -2570704488583743618
+    second: Ghostfire_59
+  - first:
+      213: 7471271242448248490
+    second: Ghostfire_60
+  - first:
+      213: 7343611627144185076
+    second: Ghostfire_61
+  - first:
+      213: -9178817570327813836
+    second: Ghostfire_62
+  - first:
+      213: 8467487013898428919
+    second: Ghostfire_63
+  - first:
+      213: -8798038491379381895
+    second: Ghostfire_64
+  - first:
+      213: 6589537531612069191
+    second: Ghostfire_65
+  - first:
+      213: -7436435091466332273
+    second: Ghostfire_66
+  - first:
+      213: -2866517069132416137
+    second: Ghostfire_67
+  - first:
+      213: -3361909043778893012
+    second: Ghostfire_68
+  - first:
+      213: 870823795475355604
+    second: Ghostfire_69
+  - first:
+      213: -205165305457494970
+    second: Ghostfire_70
+  - first:
+      213: 216311578899796993
+    second: Ghostfire_71
+  - first:
+      213: -1688642849077415286
+    second: Ghostfire_72
+  - first:
+      213: -1950412439734671294
+    second: Ghostfire_73
+  - first:
+      213: -8846933437253900203
+    second: Ghostfire_74
+  - first:
+      213: 3046255911674374249
+    second: Ghostfire_75
+  - first:
+      213: 2321968629212380113
+    second: Ghostfire_76
+  - first:
+      213: -2002445982690606544
+    second: Ghostfire_77
+  - first:
+      213: 4467069868640299836
+    second: Ghostfire_78
+  - first:
+      213: -7870069305789264556
+    second: Ghostfire_79
+  - first:
+      213: -2834463505540915798
+    second: Ghostfire_80
+  - first:
+      213: -8709242976945427150
+    second: Ghostfire_81
+  - first:
+      213: -350525452717769165
+    second: Ghostfire_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghostfire_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 647
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6103b01de6520420800000000000000
+      internalID: 2594731911506231661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 646
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b12ab4eaa007a030800000000000000
+      internalID: 3505771568913064371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 646
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520da5b6d2c5753a0800000000000000
+      internalID: -6676766572409073627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 647
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb284db50fa8890800000000000000
+      internalID: -7454881955960406073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 664
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937bc27d8212e130800000000000000
+      internalID: 3594455851320701849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 648
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0587323f80f6280800000000000000
+      internalID: -9048003285998874460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 648
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2328a70b2a44120800000000000000
+      internalID: 2397219780521243375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 639
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af91f318b92b4270800000000000000
+      internalID: 8235722214162407330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 639
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea38aafd70960f20800000000000000
+      internalID: 3388554640393517802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 639
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7318ddcc5cbe47f20800000000000000
+      internalID: 3419617251859202359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 639
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23493124cccca6500800000000000000
+      internalID: 390349495374943282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 639
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304556661f27ad70800000000000000
+      internalID: 9054257349104320568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 639
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8afaa1bc41a3f860800000000000000
+      internalID: 7562565550055553674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 547
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601598eedff0bbed0800000000000000
+      internalID: -2397304793341538042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 549
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf7b9cd1160b3210800000000000000
+      internalID: 1313650390094020524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 550
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c58d2eea1bcb40800000000000000
+      internalID: 5461488583385139459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 545
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048346e0e82cd8410800000000000000
+      internalID: 1481053767857354816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 545
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e519b2d71174151f0800000000000000
+      internalID: -1057986297015332514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 545
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d4e54b1e42af40800000000000000
+      internalID: 5738234754267140693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2ff7716e0545540800000000000000
+      internalID: 4995706835827684035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2fb90d5dff72d70800000000000000
+      internalID: 9018458072625705677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2a5ed9dfe54ca0800000000000000
+      internalID: -6033152406775517803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6898eb28054537b20800000000000000
+      internalID: 3130938870720268678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a8e9307121e87b0800000000000000
+      internalID: -5220215028021556700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_24
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3e6439006308040800000000000000
+      internalID: 4647774191545148381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 447
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b8b58683ab501f0800000000000000
+      internalID: -1079251784253600911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 449
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd098af3e8f2ef830800000000000000
+      internalID: 4106772198208344284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 450
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15224c38ed962530800000000000000
+      internalID: 3829922153894126876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 450
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d283f9fd45a3d60800000000000000
+      internalID: 7870696618209062151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 448
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2963889b932e04900800000000000000
+      internalID: 666781482404558482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0c838e38da3ccc0800000000000000
+      internalID: -3691916487465320274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_31
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 462
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c934bd69007a3d710800000000000000
+      internalID: 1716899503931081628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 450
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be2e441395eacc40800000000000000
+      internalID: 5533487512041696944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 450
+        width: 83
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe967e4c6c007e60800000000000000
+      internalID: 7957874200876064443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 453
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addcdb5e27c34eeb0800000000000000
+      internalID: -4691558447634854438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c1835c866a8fb0800000000000000
+      internalID: -4644787312796775954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fef4d8917cc5730800000000000000
+      internalID: 3989282282502352645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3e66ab67ec8a300800000000000000
+      internalID: 263687587529941941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6372d6795a035810800000000000000
+      internalID: 1752756059339125613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a31daeefce354ef0800000000000000
+      internalID: -124624351899348057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_40
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 445
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe6cc1de385c1820800000000000000
+      internalID: 2890282087696068351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c81c7e7fa76e560800000000000000
+      internalID: 7342691447637904396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78a080f9935f8f30800000000000000
+      internalID: 4579971266689149053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 347
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6736c27f6df023970800000000000000
+      internalID: 8733060043369112438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 349
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b195208182fd90800000000000000
+      internalID: -7065442478004784809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 350
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdcccd9abc8d6420800000000000000
+      internalID: 2624908890966117872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 350
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e979bea3b08b8d580800000000000000
+      internalID: -8802083113322965090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 348
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57ac899a9d13a70800000000000000
+      internalID: 8805058068922135972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_48
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ae42622e7b8870800000000000000
+      internalID: 8686174992457442325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_49
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 362
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c216ce391118a56c0800000000000000
+      internalID: -4153865793799691988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 350
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd11dce2ea6d6110800000000000000
+      internalID: 1255777393974517214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_51
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 350
+        width: 83
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59343400ab6e12cb0800000000000000
+      internalID: -4890374033804934251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 353
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9351a943b2fbe90800000000000000
+      internalID: -7007834990241826357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a5c6b6a15cdcf20800000000000000
+      internalID: 3444626007270382120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e8f78f9c9aff430800000000000000
+      internalID: 3818957693956099717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 256
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945316cdf13bf0450800000000000000
+      internalID: 6057256973259322697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_56
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bf49dfc07e454a0800000000000000
+      internalID: -6605400710465651831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e79718f66e92b3a0800000000000000
+      internalID: -6651079534586652699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_58
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 345
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51116c0e4e8c3c150800000000000000
+      internalID: 5891773622879916309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b67743e5035cd0800000000000000
+      internalID: -2570704488583743618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_60
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae18ba4c994fa760800000000000000
+      internalID: 7471271242448248490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 101
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f48b54eddfb9e560800000000000000
+      internalID: 7343611627144185076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 262
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4312f7e1d0a4e9080800000000000000
+      internalID: -9178817570327813836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 253
+        width: 100
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f126a3939e828570800000000000000
+      internalID: 8467487013898428919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794e192b9617e580800000000000000
+      internalID: -8798038491379381895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 147
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d77ddd87db27b50800000000000000
+      internalID: 6589537531612069191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8756e92fa97cc890800000000000000
+      internalID: -7436435091466332273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 147
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb4cfb9e51838d0800000000000000
+      internalID: -2866517069132416137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bc26e69891851d0800000000000000
+      internalID: -3361909043778893012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7144fc0a9c51c00800000000000000
+      internalID: 870823795475355604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b8ffdd3b172df0800000000000000
+      internalID: -205165305457494970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_71
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10450252c3e700300800000000000000
+      internalID: 216311578899796993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_72
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82bc3c864cb098e0800000000000000
+      internalID: -1688642849077415286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ac14483ebee4e0800000000000000
+      internalID: -1950412439734671294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a4f079e0693580800000000000000
+      internalID: -8846933437253900203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 51
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968e846ac99764a20800000000000000
+      internalID: 3046255911674374249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_76
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 46
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfdcb7a2a493020800000000000000
+      internalID: 2321968629212380113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_77
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 39
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03281d7fcf1e534e0800000000000000
+      internalID: -2002445982690606544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_78
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 39
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be723c0683efd30800000000000000
+      internalID: 4467069868640299836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_79
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc9bee9a5e7c290800000000000000
+      internalID: -7870069305789264556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaddc679576f9a8d0800000000000000
+      internalID: -2834463505540915798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_81
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d2a90f7ad822780800000000000000
+      internalID: -8709242976945427150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e360a35fea22bf0800000000000000
+      internalID: -350525452717769165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ghostfire_0: 2594731911506231661
+      Ghostfire_1: 3505771568913064371
+      Ghostfire_10: 390349495374943282
+      Ghostfire_11: 9054257349104320568
+      Ghostfire_12: 7562565550055553674
+      Ghostfire_13: -2397304793341538042
+      Ghostfire_14: 1313650390094020524
+      Ghostfire_15: 5461488583385139459
+      Ghostfire_16: 1481053767857354816
+      Ghostfire_17: -1057986297015332514
+      Ghostfire_18: 5738234754267140693
+      Ghostfire_19: 4995706835827684035
+      Ghostfire_2: -6676766572409073627
+      Ghostfire_20: 9018458072625705677
+      Ghostfire_21: -6033152406775517803
+      Ghostfire_22: 3130938870720268678
+      Ghostfire_23: -5220215028021556700
+      Ghostfire_24: 4647774191545148381
+      Ghostfire_25: -1079251784253600911
+      Ghostfire_26: 4106772198208344284
+      Ghostfire_27: 3829922153894126876
+      Ghostfire_28: 7870696618209062151
+      Ghostfire_29: 666781482404558482
+      Ghostfire_3: -7454881955960406073
+      Ghostfire_30: -3691916487465320274
+      Ghostfire_31: 1716899503931081628
+      Ghostfire_32: 5533487512041696944
+      Ghostfire_33: 7957874200876064443
+      Ghostfire_34: -4691558447634854438
+      Ghostfire_35: -4644787312796775954
+      Ghostfire_36: 3989282282502352645
+      Ghostfire_37: 263687587529941941
+      Ghostfire_38: 1752756059339125613
+      Ghostfire_39: -124624351899348057
+      Ghostfire_4: 3594455851320701849
+      Ghostfire_40: 2890282087696068351
+      Ghostfire_41: 7342691447637904396
+      Ghostfire_42: 4579971266689149053
+      Ghostfire_43: 8733060043369112438
+      Ghostfire_44: -7065442478004784809
+      Ghostfire_45: 2624908890966117872
+      Ghostfire_46: -8802083113322965090
+      Ghostfire_47: 8805058068922135972
+      Ghostfire_48: 8686174992457442325
+      Ghostfire_49: -4153865793799691988
+      Ghostfire_5: -9048003285998874460
+      Ghostfire_50: 1255777393974517214
+      Ghostfire_51: -4890374033804934251
+      Ghostfire_52: -7007834990241826357
+      Ghostfire_53: 3444626007270382120
+      Ghostfire_54: 3818957693956099717
+      Ghostfire_55: 6057256973259322697
+      Ghostfire_56: -6605400710465651831
+      Ghostfire_57: -6651079534586652699
+      Ghostfire_58: 5891773622879916309
+      Ghostfire_59: -2570704488583743618
+      Ghostfire_6: 2397219780521243375
+      Ghostfire_60: 7471271242448248490
+      Ghostfire_61: 7343611627144185076
+      Ghostfire_62: -9178817570327813836
+      Ghostfire_63: 8467487013898428919
+      Ghostfire_64: -8798038491379381895
+      Ghostfire_65: 6589537531612069191
+      Ghostfire_66: -7436435091466332273
+      Ghostfire_67: -2866517069132416137
+      Ghostfire_68: -3361909043778893012
+      Ghostfire_69: 870823795475355604
+      Ghostfire_7: 8235722214162407330
+      Ghostfire_70: -205165305457494970
+      Ghostfire_71: 216311578899796993
+      Ghostfire_72: -1688642849077415286
+      Ghostfire_73: -1950412439734671294
+      Ghostfire_74: -8846933437253900203
+      Ghostfire_75: 3046255911674374249
+      Ghostfire_76: 2321968629212380113
+      Ghostfire_77: -2002445982690606544
+      Ghostfire_78: 4467069868640299836
+      Ghostfire_79: -7870069305789264556
+      Ghostfire_8: 3388554640393517802
+      Ghostfire_80: -2834463505540915798
+      Ghostfire_81: -8709242976945427150
+      Ghostfire_82: -350525452717769165
+      Ghostfire_9: 3419617251859202359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

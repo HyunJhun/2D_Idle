@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: 904e435d577a5c74485494a58d8c7849
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2801745573454880791
+    second: Lava Slime_0
+  - first:
+      213: 3837067697690581552
+    second: Lava Slime_1
+  - first:
+      213: -7165875483226956566
+    second: Lava Slime_2
+  - first:
+      213: 8654679777195845673
+    second: Lava Slime_3
+  - first:
+      213: -8661420649692112444
+    second: Lava Slime_4
+  - first:
+      213: 1043248425665075876
+    second: Lava Slime_5
+  - first:
+      213: -2878952945549644182
+    second: Lava Slime_6
+  - first:
+      213: -426521971421869783
+    second: Lava Slime_7
+  - first:
+      213: -537073581132397038
+    second: Lava Slime_8
+  - first:
+      213: 976207123586357747
+    second: Lava Slime_9
+  - first:
+      213: 8078447889783448717
+    second: Lava Slime_10
+  - first:
+      213: 493246213507234064
+    second: Lava Slime_11
+  - first:
+      213: -4688572645937561777
+    second: Lava Slime_12
+  - first:
+      213: -6695309770202676851
+    second: Lava Slime_13
+  - first:
+      213: -1508629918621879564
+    second: Lava Slime_14
+  - first:
+      213: 5220807732539495331
+    second: Lava Slime_15
+  - first:
+      213: -6526023774545069047
+    second: Lava Slime_16
+  - first:
+      213: -1408581564242567707
+    second: Lava Slime_17
+  - first:
+      213: 5398875182612705546
+    second: Lava Slime_18
+  - first:
+      213: -5817018919631340724
+    second: Lava Slime_19
+  - first:
+      213: 192054167495110078
+    second: Lava Slime_20
+  - first:
+      213: 7459614976971335692
+    second: Lava Slime_21
+  - first:
+      213: 6669121092989674548
+    second: Lava Slime_22
+  - first:
+      213: -857286018241669565
+    second: Lava Slime_23
+  - first:
+      213: -4283601860587080985
+    second: Lava Slime_24
+  - first:
+      213: -662104852459949115
+    second: Lava Slime_25
+  - first:
+      213: 1220186656180852080
+    second: Lava Slime_26
+  - first:
+      213: -3249668323656474440
+    second: Lava Slime_27
+  - first:
+      213: 6337821730929247541
+    second: Lava Slime_28
+  - first:
+      213: -99489918149338804
+    second: Lava Slime_29
+  - first:
+      213: 6882495901115298839
+    second: Lava Slime_30
+  - first:
+      213: -8237029892139558916
+    second: Lava Slime_31
+  - first:
+      213: 1337832842755772770
+    second: Lava Slime_32
+  - first:
+      213: 3234726956163672820
+    second: Lava Slime_33
+  - first:
+      213: 561860760116287550
+    second: Lava Slime_34
+  - first:
+      213: -3458511657978302218
+    second: Lava Slime_35
+  - first:
+      213: 8918553430358424270
+    second: Lava Slime_36
+  - first:
+      213: -4745378630186869360
+    second: Lava Slime_37
+  - first:
+      213: 6245361186228993262
+    second: Lava Slime_38
+  - first:
+      213: -3236692812663550970
+    second: Lava Slime_39
+  - first:
+      213: -7612287272814881802
+    second: Lava Slime_40
+  - first:
+      213: 8123042349931558046
+    second: Lava Slime_41
+  - first:
+      213: -4175066874615207747
+    second: Lava Slime_42
+  - first:
+      213: -9188423728668802
+    second: Lava Slime_43
+  - first:
+      213: 1426568840179012347
+    second: Lava Slime_44
+  - first:
+      213: -1760459323590050687
+    second: Lava Slime_45
+  - first:
+      213: -4480824899688106104
+    second: Lava Slime_46
+  - first:
+      213: 3662293666389199133
+    second: Lava Slime_47
+  - first:
+      213: -5394686313389976237
+    second: Lava Slime_48
+  - first:
+      213: 8570655319475160722
+    second: Lava Slime_49
+  - first:
+      213: -4661961927183190346
+    second: Lava Slime_50
+  - first:
+      213: 4648371512926033407
+    second: Lava Slime_51
+  - first:
+      213: 3476366336212931821
+    second: Lava Slime_52
+  - first:
+      213: -3416213621907811714
+    second: Lava Slime_53
+  - first:
+      213: 2262768178793802276
+    second: Lava Slime_54
+  - first:
+      213: 4817085354694614603
+    second: Lava Slime_55
+  - first:
+      213: -7257847489726688275
+    second: Lava Slime_56
+  - first:
+      213: -9161049370979638321
+    second: Lava Slime_57
+  - first:
+      213: -3208069526598806996
+    second: Lava Slime_58
+  - first:
+      213: 3713221792819152590
+    second: Lava Slime_59
+  - first:
+      213: -7469709301036903458
+    second: Lava Slime_60
+  - first:
+      213: 5169459919419304901
+    second: Lava Slime_61
+  - first:
+      213: 5613993175618406098
+    second: Lava Slime_62
+  - first:
+      213: -4109564039182116683
+    second: Lava Slime_63
+  - first:
+      213: -6954627667244697354
+    second: Lava Slime_64
+  - first:
+      213: 3436468865711329915
+    second: Lava Slime_65
+  - first:
+      213: -8081629102550192509
+    second: Lava Slime_66
+  - first:
+      213: -8456383075209966952
+    second: Lava Slime_67
+  - first:
+      213: 1924840018200595645
+    second: Lava Slime_68
+  - first:
+      213: 6654722710649598924
+    second: Lava Slime_69
+  - first:
+      213: 5885155118422387097
+    second: Lava Slime_70
+  - first:
+      213: -4122655441652541412
+    second: Lava Slime_71
+  - first:
+      213: 514086935395604363
+    second: Lava Slime_72
+  - first:
+      213: 3893587837040730497
+    second: Lava Slime_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lava Slime_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 742
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7102dc831ccc1e620800000000000000
+      internalID: 2801745573454880791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 742
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a19fbcdb0004530800000000000000
+      internalID: 3837067697690581552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 742
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec9395e632bd8c90800000000000000
+      internalID: -7165875483226956566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 742
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928e38427699b1870800000000000000
+      internalID: 8654679777195845673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 742
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95edc2fc37cc780800000000000000
+      internalID: -8661420649692112444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 742
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa90407aec5a7e00800000000000000
+      internalID: 1043248425665075876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 642
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ee273ac87eb08d0800000000000000
+      internalID: -2878952945549644182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 642
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929008cd680b41af0800000000000000
+      internalID: -426521971421869783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 642
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2164b5a6c6eeb88f0800000000000000
+      internalID: -537073581132397038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 642
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9129ce43f2c8d00800000000000000
+      internalID: 976207123586357747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 642
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84eb07ed896c1070800000000000000
+      internalID: 8078447889783448717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 642
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019b7ee51dc58d600800000000000000
+      internalID: 493246213507234064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 542
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f37470508deeeb0800000000000000
+      internalID: -4688572645937561777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 542
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d810eddbc3b7513a0800000000000000
+      internalID: -6695309770202676851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 542
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f234030515401be0800000000000000
+      internalID: -1508629918621879564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 542
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a311a2c8f8047840800000000000000
+      internalID: 5220807732539495331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 542
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cbc7214f7ee65a0800000000000000
+      internalID: -6526023774545069047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 542
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed5822c786b37ce0800000000000000
+      internalID: -1408581564242567707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 442
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a017d46cf58acea40800000000000000
+      internalID: 5398875182612705546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 442
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb5abcc1cc54fa0800000000000000
+      internalID: -5817018919631340724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 442
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebded2f6f305aa200800000000000000
+      internalID: 192054167495110078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 442
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c086f8f7c40e58760800000000000000
+      internalID: 7459614976971335692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 442
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e6bfac4a7d8c50800000000000000
+      internalID: 6669121092989674548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 442
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346dbc398ee4a14f0800000000000000
+      internalID: -857286018241669565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_24
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 442
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23184adc69d84c0800000000000000
+      internalID: -4283601860587080985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 442
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ff09052bbfc6f0800000000000000
+      internalID: -662104852459949115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_26
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 442
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075d4598c49fee010800000000000000
+      internalID: 1220186656180852080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 442
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0ed9a80ebd6e2d0800000000000000
+      internalID: -3249668323656474440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 442
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350ac9f84774f750800000000000000
+      internalID: 6337821730929247541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 440
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49d9f1527a8e9ef0800000000000000
+      internalID: -99489918149338804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_30
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 442
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7143f0a9e89838f50800000000000000
+      internalID: 6882495901115298839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_31
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 442
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf75fba64f030bd80800000000000000
+      internalID: -8237029892139558916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 442
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2611f41e1efe09210800000000000000
+      internalID: 1337832842755772770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_33
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 442
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa248f370f04ec20800000000000000
+      internalID: 3234726956163672820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 442
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3856fb62612cc700800000000000000
+      internalID: 561860760116287550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_35
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 442
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f7a698f5e000d0800000000000000
+      internalID: -3458511657978302218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_36
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 442
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecafad6a71115cb70800000000000000
+      internalID: 8918553430358424270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_37
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 442
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d5bf62747052eb0800000000000000
+      internalID: -4745378630186869360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_38
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 442
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecf037d8eafba650800000000000000
+      internalID: 6245361186228993262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_39
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 442
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c012e1905f413d0800000000000000
+      internalID: -3236692812663550970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_40
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 442
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f354a79e09bb5690800000000000000
+      internalID: -7612287272814881802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_41
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 442
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ff13caf7dab070800000000000000
+      internalID: 8123042349931558046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 342
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db86f094cce2f06c0800000000000000
+      internalID: -4175066874615207747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 342
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f5b936d2b5fdff0800000000000000
+      internalID: -9188423728668802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 342
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2d2864dc03cc310800000000000000
+      internalID: 1426568840179012347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_45
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 342
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cf3ef82979197e0800000000000000
+      internalID: -1760459323590050687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_46
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 342
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877d518e79e0d1c0800000000000000
+      internalID: -4480824899688106104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 342
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d198a489fa413d230800000000000000
+      internalID: 3662293666389199133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_48
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 342
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3559ab751693225b0800000000000000
+      internalID: -5394686313389976237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_49
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 342
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29601a19a9511f670800000000000000
+      internalID: 8570655319475160722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_50
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 342
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6b9ddc3526d4fb0800000000000000
+      internalID: -4661961927183190346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 242
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5500c4345528040800000000000000
+      internalID: 4648371512926033407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 242
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de41913a3c88e3030800000000000000
+      internalID: 3476366336212931821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 242
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72955d8fcb2790d0800000000000000
+      internalID: -3416213621907811714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 242
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aef028ba7f66f10800000000000000
+      internalID: 2262768178793802276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 242
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1f4bab99b9d240800000000000000
+      internalID: 4817085354694614603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de351ec6922f64b90800000000000000
+      internalID: -7257847489726688275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 242
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc361f8622a6dd080800000000000000
+      internalID: -9161049370979638321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 242
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22925c33c5aa73d0800000000000000
+      internalID: -3208069526598806996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 242
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6893d0c83088330800000000000000
+      internalID: 3713221792819152590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 242
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3934887f2465890800000000000000
+      internalID: -7469709301036903458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 242
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb6b91686c9db740800000000000000
+      internalID: 5169459919419304901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_62
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 242
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c33c8c09e8ed40800000000000000
+      internalID: 5613993175618406098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_63
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 242
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b894de9745e7f6c0800000000000000
+      internalID: -4109564039182116683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_64
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 242
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8b6ccdbf23c7f90800000000000000
+      internalID: -6954627667244697354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_65
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 242
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d966e93ac0bf20800000000000000
+      internalID: 3436468865711329915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 142
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6908462948df80800000000000000
+      internalID: -8081629102550192509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 142
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0c7d9564e4aa80800000000000000
+      internalID: -8456383075209966952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_68
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 142
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc8d4e5cc766ba10800000000000000
+      internalID: 1924840018200595645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 142
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc37efe0c035a5c50800000000000000
+      internalID: 6654722710649598924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_70
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99963a936654ca150800000000000000
+      internalID: 5885155118422387097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 42
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1818f4f7b269c6c0800000000000000
+      internalID: -4122655441652541412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_72
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 42
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b879cef0857622700800000000000000
+      internalID: 514086935395604363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 41
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1812898328dc80630800000000000000
+      internalID: 3893587837040730497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lava Slime_0: 2801745573454880791
+      Lava Slime_1: 3837067697690581552
+      Lava Slime_10: 8078447889783448717
+      Lava Slime_11: 493246213507234064
+      Lava Slime_12: -4688572645937561777
+      Lava Slime_13: -6695309770202676851
+      Lava Slime_14: -1508629918621879564
+      Lava Slime_15: 5220807732539495331
+      Lava Slime_16: -6526023774545069047
+      Lava Slime_17: -1408581564242567707
+      Lava Slime_18: 5398875182612705546
+      Lava Slime_19: -5817018919631340724
+      Lava Slime_2: -7165875483226956566
+      Lava Slime_20: 192054167495110078
+      Lava Slime_21: 7459614976971335692
+      Lava Slime_22: 6669121092989674548
+      Lava Slime_23: -857286018241669565
+      Lava Slime_24: -4283601860587080985
+      Lava Slime_25: -662104852459949115
+      Lava Slime_26: 1220186656180852080
+      Lava Slime_27: -3249668323656474440
+      Lava Slime_28: 6337821730929247541
+      Lava Slime_29: -99489918149338804
+      Lava Slime_3: 8654679777195845673
+      Lava Slime_30: 6882495901115298839
+      Lava Slime_31: -8237029892139558916
+      Lava Slime_32: 1337832842755772770
+      Lava Slime_33: 3234726956163672820
+      Lava Slime_34: 561860760116287550
+      Lava Slime_35: -3458511657978302218
+      Lava Slime_36: 8918553430358424270
+      Lava Slime_37: -4745378630186869360
+      Lava Slime_38: 6245361186228993262
+      Lava Slime_39: -3236692812663550970
+      Lava Slime_4: -8661420649692112444
+      Lava Slime_40: -7612287272814881802
+      Lava Slime_41: 8123042349931558046
+      Lava Slime_42: -4175066874615207747
+      Lava Slime_43: -9188423728668802
+      Lava Slime_44: 1426568840179012347
+      Lava Slime_45: -1760459323590050687
+      Lava Slime_46: -4480824899688106104
+      Lava Slime_47: 3662293666389199133
+      Lava Slime_48: -5394686313389976237
+      Lava Slime_49: 8570655319475160722
+      Lava Slime_5: 1043248425665075876
+      Lava Slime_50: -4661961927183190346
+      Lava Slime_51: 4648371512926033407
+      Lava Slime_52: 3476366336212931821
+      Lava Slime_53: -3416213621907811714
+      Lava Slime_54: 2262768178793802276
+      Lava Slime_55: 4817085354694614603
+      Lava Slime_56: -7257847489726688275
+      Lava Slime_57: -9161049370979638321
+      Lava Slime_58: -3208069526598806996
+      Lava Slime_59: 3713221792819152590
+      Lava Slime_6: -2878952945549644182
+      Lava Slime_60: -7469709301036903458
+      Lava Slime_61: 5169459919419304901
+      Lava Slime_62: 5613993175618406098
+      Lava Slime_63: -4109564039182116683
+      Lava Slime_64: -6954627667244697354
+      Lava Slime_65: 3436468865711329915
+      Lava Slime_66: -8081629102550192509
+      Lava Slime_67: -8456383075209966952
+      Lava Slime_68: 1924840018200595645
+      Lava Slime_69: 6654722710649598924
+      Lava Slime_7: -426521971421869783
+      Lava Slime_70: 5885155118422387097
+      Lava Slime_71: -4122655441652541412
+      Lava Slime_72: 514086935395604363
+      Lava Slime_73: 3893587837040730497
+      Lava Slime_8: -537073581132397038
+      Lava Slime_9: 976207123586357747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

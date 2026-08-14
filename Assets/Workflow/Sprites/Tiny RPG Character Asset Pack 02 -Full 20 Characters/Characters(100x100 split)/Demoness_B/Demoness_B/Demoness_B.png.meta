@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: b3ca522e6ee441146a8620b4d6d6a01f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3602167846502001263
+    second: Demoness_B_0
+  - first:
+      213: -4429625080636878595
+    second: Demoness_B_1
+  - first:
+      213: 3610772896359054115
+    second: Demoness_B_2
+  - first:
+      213: 7708771888087178042
+    second: Demoness_B_3
+  - first:
+      213: 6419427670501130718
+    second: Demoness_B_4
+  - first:
+      213: 7359869276677065898
+    second: Demoness_B_5
+  - first:
+      213: 7110142587883649746
+    second: Demoness_B_6
+  - first:
+      213: -834978906134422931
+    second: Demoness_B_7
+  - first:
+      213: 9182289443050292917
+    second: Demoness_B_8
+  - first:
+      213: -3986584343423863084
+    second: Demoness_B_9
+  - first:
+      213: 4419805225986984604
+    second: Demoness_B_10
+  - first:
+      213: 7507497131232017467
+    second: Demoness_B_11
+  - first:
+      213: 4040710566545569685
+    second: Demoness_B_12
+  - first:
+      213: -7360146304757309198
+    second: Demoness_B_13
+  - first:
+      213: -6493661007209925995
+    second: Demoness_B_14
+  - first:
+      213: 3353499738517743706
+    second: Demoness_B_15
+  - first:
+      213: -8143143160394189626
+    second: Demoness_B_16
+  - first:
+      213: -4442809239220989838
+    second: Demoness_B_17
+  - first:
+      213: -5379111699196486702
+    second: Demoness_B_18
+  - first:
+      213: -206128625383740892
+    second: Demoness_B_19
+  - first:
+      213: -5402913277867303250
+    second: Demoness_B_20
+  - first:
+      213: 8440416862579777406
+    second: Demoness_B_21
+  - first:
+      213: -5926956925471246792
+    second: Demoness_B_22
+  - first:
+      213: -4829032793786661428
+    second: Demoness_B_23
+  - first:
+      213: 3178780024704398649
+    second: Demoness_B_24
+  - first:
+      213: -9089566885235637345
+    second: Demoness_B_25
+  - first:
+      213: -4724431893770610685
+    second: Demoness_B_26
+  - first:
+      213: 9163554250230311684
+    second: Demoness_B_27
+  - first:
+      213: 3964809480194265749
+    second: Demoness_B_28
+  - first:
+      213: -3733383393792531527
+    second: Demoness_B_29
+  - first:
+      213: 6326906870394277339
+    second: Demoness_B_30
+  - first:
+      213: 1851861132900172379
+    second: Demoness_B_31
+  - first:
+      213: -3315529710644272761
+    second: Demoness_B_32
+  - first:
+      213: 5146796175963765337
+    second: Demoness_B_33
+  - first:
+      213: -2040425203654794148
+    second: Demoness_B_34
+  - first:
+      213: -5055485881166901188
+    second: Demoness_B_35
+  - first:
+      213: 5096641061999345241
+    second: Demoness_B_36
+  - first:
+      213: 9198372538587634803
+    second: Demoness_B_37
+  - first:
+      213: 7425981476582762406
+    second: Demoness_B_38
+  - first:
+      213: -6723086748801142398
+    second: Demoness_B_39
+  - first:
+      213: 3281245085506802538
+    second: Demoness_B_40
+  - first:
+      213: 5312646640459421502
+    second: Demoness_B_41
+  - first:
+      213: -8755599594448069079
+    second: Demoness_B_42
+  - first:
+      213: -3138771588484936152
+    second: Demoness_B_43
+  - first:
+      213: 1928211511192295346
+    second: Demoness_B_44
+  - first:
+      213: -1124105887921590222
+    second: Demoness_B_45
+  - first:
+      213: -5773847874917507655
+    second: Demoness_B_46
+  - first:
+      213: -4191341228682089326
+    second: Demoness_B_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demoness_B_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 541
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951aefbd67820ec0800000000000000
+      internalID: -3602167846502001263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 542
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05a74557fc682c0800000000000000
+      internalID: -4429625080636878595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 540
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf61c81da0c1230800000000000000
+      internalID: 3610772896359054115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 540
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b14fb703f0bfa60800000000000000
+      internalID: 7708771888087178042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 541
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed188896473661950800000000000000
+      internalID: 6419427670501130718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 541
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacc5a5ec12832660800000000000000
+      internalID: 7359869276677065898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 441
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da7e25330d4ca260800000000000000
+      internalID: 7110142587883649746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 442
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad9e8db1f8964f0800000000000000
+      internalID: -834978906134422931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 440
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b605dd399b0e6f70800000000000000
+      internalID: 9182289443050292917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 440
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6361759aecca8c0800000000000000
+      internalID: -3986584343423863084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 441
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a8e579f6d465d30800000000000000
+      internalID: 4419805225986984604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 441
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c395b4ddcff2860800000000000000
+      internalID: 7507497131232017467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 347
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597bd170adc731830800000000000000
+      internalID: 4040710566545569685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 348
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0690a7ee18bd990800000000000000
+      internalID: -7360146304757309198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 348
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592727508b1e1e5a0800000000000000
+      internalID: -6493661007209925995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 346
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5827bc9e360a8e20800000000000000
+      internalID: 3353499738517743706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 367
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c47d89907ebdfe80800000000000000
+      internalID: -8143143160394189626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 330
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270d8633988f752c0800000000000000
+      internalID: -4442809239220989838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 341
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbde3ac86e8955b0800000000000000
+      internalID: -5379111699196486702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 335
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a66f97b1fa32df0800000000000000
+      internalID: -206128625383740892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_20
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 321
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae5a78effef405b0800000000000000
+      internalID: -5402913277867303250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 332
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fd842da62622570800000000000000
+      internalID: 8440416862579777406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 247
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836be3224183fbda0800000000000000
+      internalID: -5926956925471246792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 250
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc542a56244dbfcb0800000000000000
+      internalID: -4829032793786661428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_24
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 251
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fc9f279b4d1c20800000000000000
+      internalID: 3178780024704398649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 251
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f934063931f5bd180800000000000000
+      internalID: -9089566885235637345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 236
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d64649327f6eb0800000000000000
+      internalID: -4724431893770610685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 232
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40baffc3a0c7b2f70800000000000000
+      internalID: 9163554250230311684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 241
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592941d3735d50730800000000000000
+      internalID: 3964809480194265749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 233
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b367aa659b503cc0800000000000000
+      internalID: -3733383393792531527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 244
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd44d8f640bdc750800000000000000
+      internalID: 6326906870394277339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_31
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 237
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b520ed783e123b910800000000000000
+      internalID: 1851861132900172379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 238
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7816bca6b4fdcf1d0800000000000000
+      internalID: -3315529710644272761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_33
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 243
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab8a76ad71d6740800000000000000
+      internalID: 5146796175963765337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_34
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 244
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e6618614fea3e0800000000000000
+      internalID: -2040425203654794148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 231
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305b0e406e47d9b0800000000000000
+      internalID: -5055485881166901188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 234
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ef320fa08eab640800000000000000
+      internalID: 5096641061999345241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 238
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c593ab61f27af70800000000000000
+      internalID: 9198372538587634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 234
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a854fec26e0760800000000000000
+      internalID: 7425981476582762406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 231
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281729fe83cc2b2a0800000000000000
+      internalID: -6723086748801142398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 141
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6311ae3503598d20800000000000000
+      internalID: 3281245085506802538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 141
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3791cdc8ff4ab940800000000000000
+      internalID: 5312646640459421502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 141
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5e59de8cdd7680800000000000000
+      internalID: -8755599594448069079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 141
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4445ced7d074d0800000000000000
+      internalID: -3138771588484936152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b79f60472262ca10800000000000000
+      internalID: 1928211511192295346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_45
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 44
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230328496af5660f0800000000000000
+      internalID: -1124105887921590222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 42
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd56ce2fb2fdfa0800000000000000
+      internalID: -5773847874917507655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demoness_B_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 42
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c64f3fb5d55d5c0800000000000000
+      internalID: -4191341228682089326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Demoness_B_0: -3602167846502001263
+      Demoness_B_1: -4429625080636878595
+      Demoness_B_10: 4419805225986984604
+      Demoness_B_11: 7507497131232017467
+      Demoness_B_12: 4040710566545569685
+      Demoness_B_13: -7360146304757309198
+      Demoness_B_14: -6493661007209925995
+      Demoness_B_15: 3353499738517743706
+      Demoness_B_16: -8143143160394189626
+      Demoness_B_17: -4442809239220989838
+      Demoness_B_18: -5379111699196486702
+      Demoness_B_19: -206128625383740892
+      Demoness_B_2: 3610772896359054115
+      Demoness_B_20: -5402913277867303250
+      Demoness_B_21: 8440416862579777406
+      Demoness_B_22: -5926956925471246792
+      Demoness_B_23: -4829032793786661428
+      Demoness_B_24: 3178780024704398649
+      Demoness_B_25: -9089566885235637345
+      Demoness_B_26: -4724431893770610685
+      Demoness_B_27: 9163554250230311684
+      Demoness_B_28: 3964809480194265749
+      Demoness_B_29: -3733383393792531527
+      Demoness_B_3: 7708771888087178042
+      Demoness_B_30: 6326906870394277339
+      Demoness_B_31: 1851861132900172379
+      Demoness_B_32: -3315529710644272761
+      Demoness_B_33: 5146796175963765337
+      Demoness_B_34: -2040425203654794148
+      Demoness_B_35: -5055485881166901188
+      Demoness_B_36: 5096641061999345241
+      Demoness_B_37: 9198372538587634803
+      Demoness_B_38: 7425981476582762406
+      Demoness_B_39: -6723086748801142398
+      Demoness_B_4: 6419427670501130718
+      Demoness_B_40: 3281245085506802538
+      Demoness_B_41: 5312646640459421502
+      Demoness_B_42: -8755599594448069079
+      Demoness_B_43: -3138771588484936152
+      Demoness_B_44: 1928211511192295346
+      Demoness_B_45: -1124105887921590222
+      Demoness_B_46: -5773847874917507655
+      Demoness_B_47: -4191341228682089326
+      Demoness_B_5: 7359869276677065898
+      Demoness_B_6: 7110142587883649746
+      Demoness_B_7: -834978906134422931
+      Demoness_B_8: 9182289443050292917
+      Demoness_B_9: -3986584343423863084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c6067f574c2489b44a965be6cb5d9468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -928103492720826064
+    second: Flame Golem_Attack03_0
+  - first:
+      213: 7581984843296788129
+    second: Flame Golem_Attack03_1
+  - first:
+      213: 9177209889980669431
+    second: Flame Golem_Attack03_2
+  - first:
+      213: 8755688337747314699
+    second: Flame Golem_Attack03_3
+  - first:
+      213: 1664197152437853945
+    second: Flame Golem_Attack03_4
+  - first:
+      213: 8421391710742528795
+    second: Flame Golem_Attack03_5
+  - first:
+      213: 1602685133261348186
+    second: Flame Golem_Attack03_6
+  - first:
+      213: 892571042093817430
+    second: Flame Golem_Attack03_7
+  - first:
+      213: 981141538758261893
+    second: Flame Golem_Attack03_8
+  - first:
+      213: -888203544474850760
+    second: Flame Golem_Attack03_9
+  - first:
+      213: -3991492296353768154
+    second: Flame Golem_Attack03_10
+  - first:
+      213: 2469344415344210032
+    second: Flame Golem_Attack03_11
+  - first:
+      213: -1502350463463487742
+    second: Flame Golem_Attack03_12
+  - first:
+      213: -72558468140640854
+    second: Flame Golem_Attack03_13
+  - first:
+      213: 1515694623568554769
+    second: Flame Golem_Attack03_14
+  - first:
+      213: -5667397217455519378
+    second: Flame Golem_Attack03_15
+  - first:
+      213: -2601921743244604074
+    second: Flame Golem_Attack03_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03963996ac6be13f0800000000000000
+      internalID: -928103492720826064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aec91d3b0f983960800000000000000
+      internalID: 7581984843296788129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fddf71a5cffb5f70800000000000000
+      internalID: 9177209889980669431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08857f4724728970800000000000000
+      internalID: 8755688337747314699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 50
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe564b2e7a681710800000000000000
+      internalID: 1664197152437853945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 47
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b134a39742bced470800000000000000
+      internalID: 8421391710742528795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 55
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d97d623a1ed3610800000000000000
+      internalID: 1602685133261348186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 39
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e5dcc32ac036c00800000000000000
+      internalID: 892571042093817430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 39
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf01cf707bd9d00800000000000000
+      internalID: 981141538758261893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 39
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a655b05977ca3f0800000000000000
+      internalID: -888203544474850760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d102087ee5b98c0800000000000000
+      internalID: -3991492296353768154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 39
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070bfa0a9afd44220800000000000000
+      internalID: 2469344415344210032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_12
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078d199634962be0800000000000000
+      internalID: -1502350463463487742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 39
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5d70925783efef0800000000000000
+      internalID: -72558468140640854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11be5c9ca34d80510800000000000000
+      internalID: 1515694623568554769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 43
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c684024c5951b0800000000000000
+      internalID: -5667397217455519378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Attack03_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 39
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d4a88c5fd14ebd0800000000000000
+      internalID: -2601921743244604074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flame Golem_Attack03_0: -928103492720826064
+      Flame Golem_Attack03_1: 7581984843296788129
+      Flame Golem_Attack03_10: -3991492296353768154
+      Flame Golem_Attack03_11: 2469344415344210032
+      Flame Golem_Attack03_12: -1502350463463487742
+      Flame Golem_Attack03_13: -72558468140640854
+      Flame Golem_Attack03_14: 1515694623568554769
+      Flame Golem_Attack03_15: -5667397217455519378
+      Flame Golem_Attack03_16: -2601921743244604074
+      Flame Golem_Attack03_2: 9177209889980669431
+      Flame Golem_Attack03_3: 8755688337747314699
+      Flame Golem_Attack03_4: 1664197152437853945
+      Flame Golem_Attack03_5: 8421391710742528795
+      Flame Golem_Attack03_6: 1602685133261348186
+      Flame Golem_Attack03_7: 892571042093817430
+      Flame Golem_Attack03_8: 981141538758261893
+      Flame Golem_Attack03_9: -888203544474850760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

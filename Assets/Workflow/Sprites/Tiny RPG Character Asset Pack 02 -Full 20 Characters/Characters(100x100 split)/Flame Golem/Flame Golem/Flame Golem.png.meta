@@ -1,0 +1,3848 @@
+fileFormatVersion: 2
+guid: e6166c3b156be224cb451deb8b1912c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4442795627851752555
+    second: Flame Golem_0
+  - first:
+      213: -49568544166774996
+    second: Flame Golem_1
+  - first:
+      213: -2988991016715937894
+    second: Flame Golem_2
+  - first:
+      213: -5692711756318007457
+    second: Flame Golem_3
+  - first:
+      213: -8872384088425881225
+    second: Flame Golem_4
+  - first:
+      213: 3533983079207791571
+    second: Flame Golem_5
+  - first:
+      213: 56728642845583474
+    second: Flame Golem_6
+  - first:
+      213: -1786975091471295872
+    second: Flame Golem_7
+  - first:
+      213: 8293294126570344516
+    second: Flame Golem_8
+  - first:
+      213: 8211043643737627566
+    second: Flame Golem_9
+  - first:
+      213: -1960696813809795025
+    second: Flame Golem_10
+  - first:
+      213: 4797284140913439620
+    second: Flame Golem_11
+  - first:
+      213: -861073455773616084
+    second: Flame Golem_12
+  - first:
+      213: -55563170937778922
+    second: Flame Golem_13
+  - first:
+      213: 521329130725984579
+    second: Flame Golem_14
+  - first:
+      213: 6337036004993931366
+    second: Flame Golem_15
+  - first:
+      213: -135922522623957876
+    second: Flame Golem_16
+  - first:
+      213: -5954592580972189417
+    second: Flame Golem_17
+  - first:
+      213: -211512372427150273
+    second: Flame Golem_18
+  - first:
+      213: -1282383468736330941
+    second: Flame Golem_19
+  - first:
+      213: -6696189137426394511
+    second: Flame Golem_20
+  - first:
+      213: 7002901515285315492
+    second: Flame Golem_21
+  - first:
+      213: -3967100990952718947
+    second: Flame Golem_22
+  - first:
+      213: 5553718161200587351
+    second: Flame Golem_23
+  - first:
+      213: -134842563073285042
+    second: Flame Golem_24
+  - first:
+      213: -3622553753073532571
+    second: Flame Golem_25
+  - first:
+      213: -4521006226854933751
+    second: Flame Golem_26
+  - first:
+      213: -4679720116828622191
+    second: Flame Golem_27
+  - first:
+      213: 5661964789453073632
+    second: Flame Golem_28
+  - first:
+      213: 3167810176458127637
+    second: Flame Golem_29
+  - first:
+      213: 1141143372919326549
+    second: Flame Golem_30
+  - first:
+      213: -7145056170449798740
+    second: Flame Golem_31
+  - first:
+      213: -3902277205830580466
+    second: Flame Golem_32
+  - first:
+      213: 5384729291482498740
+    second: Flame Golem_33
+  - first:
+      213: -1278396317032630929
+    second: Flame Golem_34
+  - first:
+      213: 1862670627889319027
+    second: Flame Golem_35
+  - first:
+      213: 4101130322502291194
+    second: Flame Golem_36
+  - first:
+      213: 758022445831695734
+    second: Flame Golem_37
+  - first:
+      213: 7687747728528350278
+    second: Flame Golem_38
+  - first:
+      213: -7388356595220650845
+    second: Flame Golem_39
+  - first:
+      213: 8727038289512242198
+    second: Flame Golem_40
+  - first:
+      213: -8849349270167467376
+    second: Flame Golem_41
+  - first:
+      213: -1561051168758519431
+    second: Flame Golem_42
+  - first:
+      213: -3075846414287302011
+    second: Flame Golem_43
+  - first:
+      213: 7013754001251589079
+    second: Flame Golem_44
+  - first:
+      213: -7648042133681545706
+    second: Flame Golem_45
+  - first:
+      213: 2055995595497069115
+    second: Flame Golem_46
+  - first:
+      213: 6341444204477530085
+    second: Flame Golem_47
+  - first:
+      213: -3642686901587501495
+    second: Flame Golem_48
+  - first:
+      213: 1215760113017325096
+    second: Flame Golem_49
+  - first:
+      213: 5430632722492042708
+    second: Flame Golem_50
+  - first:
+      213: 500263849960374542
+    second: Flame Golem_51
+  - first:
+      213: -5209298818284710553
+    second: Flame Golem_52
+  - first:
+      213: -6949096233779571512
+    second: Flame Golem_53
+  - first:
+      213: -8126152141763640218
+    second: Flame Golem_54
+  - first:
+      213: 1428759145641912056
+    second: Flame Golem_55
+  - first:
+      213: -4244457768049151060
+    second: Flame Golem_56
+  - first:
+      213: -8306161028994398904
+    second: Flame Golem_57
+  - first:
+      213: -5322504831921488262
+    second: Flame Golem_58
+  - first:
+      213: -9140353149772056180
+    second: Flame Golem_59
+  - first:
+      213: -6340760602564092082
+    second: Flame Golem_60
+  - first:
+      213: -6200024185078556837
+    second: Flame Golem_61
+  - first:
+      213: 7368581081859348369
+    second: Flame Golem_62
+  - first:
+      213: -7151250426648711024
+    second: Flame Golem_63
+  - first:
+      213: -813139728919004647
+    second: Flame Golem_64
+  - first:
+      213: -7668839156538441154
+    second: Flame Golem_65
+  - first:
+      213: 1875897015081064716
+    second: Flame Golem_66
+  - first:
+      213: 4800689297578512927
+    second: Flame Golem_67
+  - first:
+      213: -6370470285109118101
+    second: Flame Golem_68
+  - first:
+      213: 7932340999925289709
+    second: Flame Golem_69
+  - first:
+      213: 55203822067747639
+    second: Flame Golem_70
+  - first:
+      213: -4138513423764852630
+    second: Flame Golem_71
+  - first:
+      213: -6323465103686392369
+    second: Flame Golem_72
+  - first:
+      213: -909763004895202199
+    second: Flame Golem_73
+  - first:
+      213: 7841339923245398290
+    second: Flame Golem_74
+  - first:
+      213: 4078676052934722103
+    second: Flame Golem_75
+  - first:
+      213: -8020467606119841193
+    second: Flame Golem_76
+  - first:
+      213: -3996947849555988100
+    second: Flame Golem_77
+  - first:
+      213: 2643226424340320361
+    second: Flame Golem_78
+  - first:
+      213: -189638782202044766
+    second: Flame Golem_79
+  - first:
+      213: -8905532193840527612
+    second: Flame Golem_80
+  - first:
+      213: -8298360061603570029
+    second: Flame Golem_81
+  - first:
+      213: 3964122529568485205
+    second: Flame Golem_82
+  - first:
+      213: -4758542246324148389
+    second: Flame Golem_83
+  - first:
+      213: -3411154935320267784
+    second: Flame Golem_84
+  - first:
+      213: -8539557269204359275
+    second: Flame Golem_85
+  - first:
+      213: -5456286583426726604
+    second: Flame Golem_86
+  - first:
+      213: 2066587348338541751
+    second: Flame Golem_87
+  - first:
+      213: -6517765148822337873
+    second: Flame Golem_88
+  - first:
+      213: 519666641502866396
+    second: Flame Golem_89
+  - first:
+      213: 5790614926244682168
+    second: Flame Golem_90
+  - first:
+      213: 2694007062990175304
+    second: Flame Golem_91
+  - first:
+      213: 7274670640778496332
+    second: Flame Golem_92
+  - first:
+      213: -3527915255703919474
+    second: Flame Golem_93
+  - first:
+      213: -3975273706681559295
+    second: Flame Golem_94
+  - first:
+      213: -1934320249135979378
+    second: Flame Golem_95
+  - first:
+      213: -5186911238543587643
+    second: Flame Golem_96
+  - first:
+      213: -7538140066922294042
+    second: Flame Golem_97
+  - first:
+      213: 1307589171980926590
+    second: Flame Golem_98
+  - first:
+      213: 6165576610325475693
+    second: Flame Golem_99
+  - first:
+      213: -4057055521194496378
+    second: Flame Golem_100
+  - first:
+      213: 339115378112654284
+    second: Flame Golem_101
+  - first:
+      213: 4040225845398158635
+    second: Flame Golem_102
+  - first:
+      213: 4374392103307900189
+    second: Flame Golem_103
+  - first:
+      213: -4974191670113006778
+    second: Flame Golem_104
+  - first:
+      213: -4282080826588175778
+    second: Flame Golem_105
+  - first:
+      213: 9185762970595752818
+    second: Flame Golem_106
+  - first:
+      213: -4988968958512324755
+    second: Flame Golem_107
+  - first:
+      213: 7154346135417979136
+    second: Flame Golem_108
+  - first:
+      213: -943598539007370744
+    second: Flame Golem_109
+  - first:
+      213: -8692324500691473699
+    second: Flame Golem_110
+  - first:
+      213: -4685640557082123538
+    second: Flame Golem_111
+  - first:
+      213: -1591046858951000403
+    second: Flame Golem_112
+  - first:
+      213: -6504783325426367667
+    second: Flame Golem_113
+  - first:
+      213: 7528710009097053451
+    second: Flame Golem_114
+  - first:
+      213: 7556042310818899014
+    second: Flame Golem_115
+  - first:
+      213: -7857094693500457351
+    second: Flame Golem_116
+  - first:
+      213: 4768709684871209398
+    second: Flame Golem_117
+  - first:
+      213: -3228414931963661359
+    second: Flame Golem_118
+  - first:
+      213: -8737182316642882620
+    second: Flame Golem_119
+  - first:
+      213: -1729404809782480401
+    second: Flame Golem_120
+  - first:
+      213: 4873708567267354528
+    second: Flame Golem_121
+  - first:
+      213: 3876200297629187016
+    second: Flame Golem_122
+  - first:
+      213: -6647757267069683988
+    second: Flame Golem_123
+  - first:
+      213: 5460609242219926861
+    second: Flame Golem_124
+  - first:
+      213: 7980009579155919447
+    second: Flame Golem_125
+  - first:
+      213: -7953537761510384464
+    second: Flame Golem_126
+  - first:
+      213: 2615946171627884078
+    second: Flame Golem_127
+  - first:
+      213: 8318602020447459556
+    second: Flame Golem_128
+  - first:
+      213: 8710027994063595332
+    second: Flame Golem_129
+  - first:
+      213: 5171731558507518405
+    second: Flame Golem_130
+  - first:
+      213: -125013075513447263
+    second: Flame Golem_131
+  - first:
+      213: -1817327317728433083
+    second: Flame Golem_132
+  - first:
+      213: -3072447854384222758
+    second: Flame Golem_133
+  - first:
+      213: 8886659863814829797
+    second: Flame Golem_134
+  - first:
+      213: -4578135374779052659
+    second: Flame Golem_135
+  - first:
+      213: -5149563873474921082
+    second: Flame Golem_136
+  - first:
+      213: -8149448712634985562
+    second: Flame Golem_137
+  - first:
+      213: -5597742792159575979
+    second: Flame Golem_138
+  - first:
+      213: -1234268260747935429
+    second: Flame Golem_139
+  - first:
+      213: -3133863139058573856
+    second: Flame Golem_140
+  - first:
+      213: 8955483566083406725
+    second: Flame Golem_141
+  - first:
+      213: 5310274242846252628
+    second: Flame Golem_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame Golem_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 642
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bdc385ae40852c0800000000000000
+      internalID: -4442795627851752555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 642
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f7e4fba5ef4ff0800000000000000
+      internalID: -49568544166774996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 643
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9710d3b188f486d0800000000000000
+      internalID: -2988991016715937894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 642
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f99f3a1dc6ff0b0800000000000000
+      internalID: -5692711756318007457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 642
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7712c82fda5fed480800000000000000
+      internalID: -8872384088425881225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 643
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbeb6ef2ea3b0130800000000000000
+      internalID: 3533983079207791571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 642
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a66d666a89c000800000000000000
+      internalID: 56728642845583474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 643
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ad1624f936337e0800000000000000
+      internalID: -1786975091471295872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 642
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4401f008113b71370800000000000000
+      internalID: 8293294126570344516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 643
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd534a0bc73f170800000000000000
+      internalID: 8211043643737627566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 642
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2080a4d2a43ac4e0800000000000000
+      internalID: -1960696813809795025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 642
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483b2c15280639240800000000000000
+      internalID: 4797284140913439620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_12
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 644
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28781f014adc04f0800000000000000
+      internalID: -861073455773616084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 642
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dc8a527999a3ff0800000000000000
+      internalID: -55563170937778922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 642
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3494cff05122c3700800000000000000
+      internalID: 521329130725984579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_15
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 644
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6681686ebaca1f750800000000000000
+      internalID: 6337036004993931366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 542
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8426029f2b1d1ef0800000000000000
+      internalID: -135922522623957876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 542
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e9fca8990d5da0800000000000000
+      internalID: -5954592580972189417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 542
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c21ef2e9e801df0800000000000000
+      internalID: -211512372427150273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 542
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3434320970f043ee0800000000000000
+      internalID: -1282383468736330941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 542
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172deda157b5213a0800000000000000
+      internalID: -6696189137426394511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 542
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af30af33dd4f2160800000000000000
+      internalID: 7002901515285315492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 543
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9db926daa602f8c0800000000000000
+      internalID: -3967100990952718947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 542
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522ff42e35c21d40800000000000000
+      internalID: 5553718161200587351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_24
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 542
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44e96f3761f02ef0800000000000000
+      internalID: -134842563073285042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 543
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5614b400e8a1abdc0800000000000000
+      internalID: -3622553753073532571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 542
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8bfc3ac82241c0800000000000000
+      internalID: -4521006226854933751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 543
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1923e24195b4e0fb0800000000000000
+      internalID: -4679720116828622191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_28
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 542
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecae164af6539e40800000000000000
+      internalID: 5661964789453073632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 542
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51977ab529256fb20800000000000000
+      internalID: 3167810176458127637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_30
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 543
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557c5a40ad726df00800000000000000
+      internalID: 1141143372919326549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 542
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca97024e449a7dc90800000000000000
+      internalID: -7145056170449798740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_32
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 542
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074d537e8358d9c0800000000000000
+      internalID: -3902277205830580466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_33
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 543
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b68476d2c66aba40800000000000000
+      internalID: 5384729291482498740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 542
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f653a19a259324ee0800000000000000
+      internalID: -1278396317032630929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_35
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 542
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c85e4311989d910800000000000000
+      internalID: 1862670627889319027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_36
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 543
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe0552bc442ae830800000000000000
+      internalID: 4101130322502291194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_37
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 542
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d2297f569058a00800000000000000
+      internalID: 758022445831695734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_38
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 543
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c9fb1e3dd50ba60800000000000000
+      internalID: 7687747728528350278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_39
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 542
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a465f362d8477990800000000000000
+      internalID: -7388356595220650845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_40
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 544
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c1c93261bac1970800000000000000
+      internalID: 8727038289512242198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_41
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 542
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a4e4289bbc03580800000000000000
+      internalID: -8849349270167467376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_42
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 546
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979a0f99b38065ae0800000000000000
+      internalID: -1561051168758519431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_43
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 542
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5821fb49bf56055d0800000000000000
+      internalID: -3075846414287302011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_44
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 544
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db539a8a1cd55160800000000000000
+      internalID: 7013754001251589079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_45
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 542
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed0b25332bcd590800000000000000
+      internalID: -7648042133681545706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_46
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 542
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ade59d91d588c10800000000000000
+      internalID: 2055995595497069115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_47
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 543
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efb7d2d7e5510850800000000000000
+      internalID: 6341444204477530085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 442
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e98e21093927dc0800000000000000
+      internalID: -3642686901587501495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 443
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8268c74a16f3fd010800000000000000
+      internalID: 1215760113017325096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 442
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd20c930bb7d5b40800000000000000
+      internalID: 5430632722492042708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 447
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e018bde225b41f600800000000000000
+      internalID: 500263849960374542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 443
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7651747235ad4b7b0800000000000000
+      internalID: -5209298818284710553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_53
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 442
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c450931bc9df8f90800000000000000
+      internalID: -6949096233779571512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_54
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 447
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66406676eab1a3f80800000000000000
+      internalID: -8126152141763640218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_55
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 450
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a3918fd8f3d310800000000000000
+      internalID: 1428759145641912056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 442
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca37847e528a815c0800000000000000
+      internalID: -4244457768049151060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 447
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84588935d869abc80800000000000000
+      internalID: -8306161028994398904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_58
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 460
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef4022e0aa226b0800000000000000
+      internalID: -5322504831921488262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_59
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 442
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b63aec31f62180800000000000000
+      internalID: -9140353149772056180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_60
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 447
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1066a3d71108a0800000000000000
+      internalID: -6340760602564092082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_61
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 463
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57df815ad615f9a0800000000000000
+      internalID: -6200024185078556837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_62
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 442
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197d3ea1475724660800000000000000
+      internalID: 7368581081859348369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_63
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 447
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0903ebb30a7a1cc90800000000000000
+      internalID: -7151250426648711024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_64
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 456
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a760989b527b4f0800000000000000
+      internalID: -813139728919004647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_65
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 442
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e328bea1b6fc29590800000000000000
+      internalID: -7668839156538441154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_66
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 442
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c095f137566880a10800000000000000
+      internalID: 1875897015081064716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_67
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 442
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12df232b797f9240800000000000000
+      internalID: 4800689297578512927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_68
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 440
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bb3e3270b8797a0800000000000000
+      internalID: -6370470285109118101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_69
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 442
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de250d1bc16551e60800000000000000
+      internalID: 7932340999925289709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_70
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 442
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b879c659f14c000800000000000000
+      internalID: 55203822067747639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_71
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a607f46c7fb0196c0800000000000000
+      internalID: -4138513423764852630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a139cdf98e38a0800000000000000
+      internalID: -6323465103686392369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_73
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964fd6ffd5fdf53f0800000000000000
+      internalID: -909763004895202199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21971207d1902dc60800000000000000
+      internalID: 7841339923245398290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_75
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7320119a24e5a9830800000000000000
+      internalID: 4078676052934722103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_76
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75203bcd43391b090800000000000000
+      internalID: -8020467606119841193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_77
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 342
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7134798b1df788c0800000000000000
+      internalID: -3996947849555988100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 343
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9601bb3bd60aea420800000000000000
+      internalID: 2643226424340320361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 342
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae953748844e5df0800000000000000
+      internalID: -189638782202044766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_80
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 347
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407845a37a1396480800000000000000
+      internalID: -8905532193840527612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 343
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e94d59d7d46dc80800000000000000
+      internalID: -8298360061603570029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 342
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f6d051074630730800000000000000
+      internalID: 3964122529568485205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_83
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 347
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e82fe90346fdb0800000000000000
+      internalID: -4758542246324148389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 350
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f33a6ec8a429a0d0800000000000000
+      internalID: -3411154935320267784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 347
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59728fd78e56d7980800000000000000
+      internalID: -8539557269204359275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_86
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 355
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435ce12d2406744b0800000000000000
+      internalID: -5456286583426726604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_87
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 347
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4090b7e3efdac10800000000000000
+      internalID: 2066587348338541751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_88
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 356
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa60607312f3c85a0800000000000000
+      internalID: -6517765148822337873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_89
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 341
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb0660ae0a363700800000000000000
+      internalID: 519666641502866396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_90
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 341
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b993ed68956c5050800000000000000
+      internalID: 5790614926244682168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_91
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 341
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c3ceb7629036520800000000000000
+      internalID: 2694007062990175304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_92
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 340
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c099a762d4f460800000000000000
+      internalID: 7274670640778496332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_93
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 340
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84261244c35a0fc0800000000000000
+      internalID: -3527915255703919474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079b4c20adf4d8c0800000000000000
+      internalID: -3975273706681559295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84a76c5bf9e725e0800000000000000
+      internalID: -1934320249135979378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6c021c5b36408b0800000000000000
+      internalID: -5186911238543587643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e415f34c85236790800000000000000
+      internalID: -7538140066922294042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_98
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef11c8c6d752210800000000000000
+      internalID: 1307589171980926590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_99
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6138eda247809550800000000000000
+      internalID: 6165576610325475693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_100
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2a29af7172b7c0800000000000000
+      internalID: -4057055521194496378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_101
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 340
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe642c3a7c4b400800000000000000
+      internalID: 339115378112654284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_102
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 340
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d3f471004c11830800000000000000
+      internalID: 4040225845398158635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_103
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 242
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f0f10176f4bc30800000000000000
+      internalID: 4374392103307900189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 242
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b053ac70f18fab0800000000000000
+      internalID: -4974191670113006778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_105
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 242
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5263b7fc2ef294c0800000000000000
+      internalID: -4282080826588175778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_106
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 247
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bfb45e0c26a7f70800000000000000
+      internalID: 9185762970595752818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_107
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 250
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f1c683a2f93cab0800000000000000
+      internalID: -4988968958512324755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_108
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 247
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00107c1a7e7594360800000000000000
+      internalID: 7154346135417979136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_109
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 255
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a53efc02aa7e2f0800000000000000
+      internalID: -943598539007370744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_110
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 242
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2cd7abe8ae5780800000000000000
+      internalID: -8692324500691473699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_111
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 241
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e4f92db249feb0800000000000000
+      internalID: -4685640557082123538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_112
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 241
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae793fbf477be9e0800000000000000
+      internalID: -1591046858951000403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_113
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 266
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43c313870e5ab5a0800000000000000
+      internalID: -6504783325426367667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_114
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 241
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05682d4dd95b7860800000000000000
+      internalID: 7528710009097053451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_115
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644ae24b2747cd860800000000000000
+      internalID: 7556042310818899014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_116
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 242
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6c43410ef5f290800000000000000
+      internalID: -7857094693500457351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_117
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 242
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a6b3513cdd2240800000000000000
+      internalID: 4768709684871209398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_118
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 243
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33db869bd5233d0800000000000000
+      internalID: -3228414931963661359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_119
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 243
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb2dae79fa4fb680800000000000000
+      internalID: -8737182316642882620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_120
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 242
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe130100d7beff7e0800000000000000
+      internalID: -1729404809782480401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_121
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 242
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7afb2be14e2a340800000000000000
+      internalID: 4873708567267354528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_122
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 242
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb737a32a70bc530800000000000000
+      internalID: 3876200297629187016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_123
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 142
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce63a47acfb6eb3a0800000000000000
+      internalID: -6647757267069683988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_124
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 142
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45dbbb9c2bf7cb40800000000000000
+      internalID: 5460609242219926861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_125
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 142
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7529dcdae60bebe60800000000000000
+      internalID: 7980009579155919447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_126
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 142
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc9489ab8b5f9190800000000000000
+      internalID: -7953537761510384464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_127
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4c67ee25bd4420800000000000000
+      internalID: 2615946171627884078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_128
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e81e98b67c917370800000000000000
+      internalID: 8318602020447459556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_129
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4476ed9105c30e870800000000000000
+      internalID: 8710027994063595332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_130
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c99482937ea5c740800000000000000
+      internalID: 5171731558507518405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_131
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acedb9254dd34ef0800000000000000
+      internalID: -125013075513447263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_132
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cee22ee6e87c6e0800000000000000
+      internalID: -1817327317728433083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_133
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 43
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add648874f87c55d0800000000000000
+      internalID: -3072447854384222758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_134
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 41
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e677660012c35b70800000000000000
+      internalID: 8886659863814829797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_135
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d05a4f1223770c0800000000000000
+      internalID: -4578135374779052659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_136
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db75dc0f21988b0800000000000000
+      internalID: -5149563873474921082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_137
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 43
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a39020d29757ee80800000000000000
+      internalID: -8149448712634985562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_138
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 41
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5504351b692d052b0800000000000000
+      internalID: -5597742792159575979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_139
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 44
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3184986e8ffedee0800000000000000
+      internalID: -1234268260747935429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_140
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 41
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed19b534184284d0800000000000000
+      internalID: -3133863139058573856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 40
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bff3cead4484c70800000000000000
+      internalID: 8955483566083406725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_142
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 40
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ed1c0f942e1b940800000000000000
+      internalID: 5310274242846252628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flame Golem_0: -4442795627851752555
+      Flame Golem_1: -49568544166774996
+      Flame Golem_10: -1960696813809795025
+      Flame Golem_100: -4057055521194496378
+      Flame Golem_101: 339115378112654284
+      Flame Golem_102: 4040225845398158635
+      Flame Golem_103: 4374392103307900189
+      Flame Golem_104: -4974191670113006778
+      Flame Golem_105: -4282080826588175778
+      Flame Golem_106: 9185762970595752818
+      Flame Golem_107: -4988968958512324755
+      Flame Golem_108: 7154346135417979136
+      Flame Golem_109: -943598539007370744
+      Flame Golem_11: 4797284140913439620
+      Flame Golem_110: -8692324500691473699
+      Flame Golem_111: -4685640557082123538
+      Flame Golem_112: -1591046858951000403
+      Flame Golem_113: -6504783325426367667
+      Flame Golem_114: 7528710009097053451
+      Flame Golem_115: 7556042310818899014
+      Flame Golem_116: -7857094693500457351
+      Flame Golem_117: 4768709684871209398
+      Flame Golem_118: -3228414931963661359
+      Flame Golem_119: -8737182316642882620
+      Flame Golem_12: -861073455773616084
+      Flame Golem_120: -1729404809782480401
+      Flame Golem_121: 4873708567267354528
+      Flame Golem_122: 3876200297629187016
+      Flame Golem_123: -6647757267069683988
+      Flame Golem_124: 5460609242219926861
+      Flame Golem_125: 7980009579155919447
+      Flame Golem_126: -7953537761510384464
+      Flame Golem_127: 2615946171627884078
+      Flame Golem_128: 8318602020447459556
+      Flame Golem_129: 8710027994063595332
+      Flame Golem_13: -55563170937778922
+      Flame Golem_130: 5171731558507518405
+      Flame Golem_131: -125013075513447263
+      Flame Golem_132: -1817327317728433083
+      Flame Golem_133: -3072447854384222758
+      Flame Golem_134: 8886659863814829797
+      Flame Golem_135: -4578135374779052659
+      Flame Golem_136: -5149563873474921082
+      Flame Golem_137: -8149448712634985562
+      Flame Golem_138: -5597742792159575979
+      Flame Golem_139: -1234268260747935429
+      Flame Golem_14: 521329130725984579
+      Flame Golem_140: -3133863139058573856
+      Flame Golem_141: 8955483566083406725
+      Flame Golem_142: 5310274242846252628
+      Flame Golem_15: 6337036004993931366
+      Flame Golem_16: -135922522623957876
+      Flame Golem_17: -5954592580972189417
+      Flame Golem_18: -211512372427150273
+      Flame Golem_19: -1282383468736330941
+      Flame Golem_2: -2988991016715937894
+      Flame Golem_20: -6696189137426394511
+      Flame Golem_21: 7002901515285315492
+      Flame Golem_22: -3967100990952718947
+      Flame Golem_23: 5553718161200587351
+      Flame Golem_24: -134842563073285042
+      Flame Golem_25: -3622553753073532571
+      Flame Golem_26: -4521006226854933751
+      Flame Golem_27: -4679720116828622191
+      Flame Golem_28: 5661964789453073632
+      Flame Golem_29: 3167810176458127637
+      Flame Golem_3: -5692711756318007457
+      Flame Golem_30: 1141143372919326549
+      Flame Golem_31: -7145056170449798740
+      Flame Golem_32: -3902277205830580466
+      Flame Golem_33: 5384729291482498740
+      Flame Golem_34: -1278396317032630929
+      Flame Golem_35: 1862670627889319027
+      Flame Golem_36: 4101130322502291194
+      Flame Golem_37: 758022445831695734
+      Flame Golem_38: 7687747728528350278
+      Flame Golem_39: -7388356595220650845
+      Flame Golem_4: -8872384088425881225
+      Flame Golem_40: 8727038289512242198
+      Flame Golem_41: -8849349270167467376
+      Flame Golem_42: -1561051168758519431
+      Flame Golem_43: -3075846414287302011
+      Flame Golem_44: 7013754001251589079
+      Flame Golem_45: -7648042133681545706
+      Flame Golem_46: 2055995595497069115
+      Flame Golem_47: 6341444204477530085
+      Flame Golem_48: -3642686901587501495
+      Flame Golem_49: 1215760113017325096
+      Flame Golem_5: 3533983079207791571
+      Flame Golem_50: 5430632722492042708
+      Flame Golem_51: 500263849960374542
+      Flame Golem_52: -5209298818284710553
+      Flame Golem_53: -6949096233779571512
+      Flame Golem_54: -8126152141763640218
+      Flame Golem_55: 1428759145641912056
+      Flame Golem_56: -4244457768049151060
+      Flame Golem_57: -8306161028994398904
+      Flame Golem_58: -5322504831921488262
+      Flame Golem_59: -9140353149772056180
+      Flame Golem_6: 56728642845583474
+      Flame Golem_60: -6340760602564092082
+      Flame Golem_61: -6200024185078556837
+      Flame Golem_62: 7368581081859348369
+      Flame Golem_63: -7151250426648711024
+      Flame Golem_64: -813139728919004647
+      Flame Golem_65: -7668839156538441154
+      Flame Golem_66: 1875897015081064716
+      Flame Golem_67: 4800689297578512927
+      Flame Golem_68: -6370470285109118101
+      Flame Golem_69: 7932340999925289709
+      Flame Golem_7: -1786975091471295872
+      Flame Golem_70: 55203822067747639
+      Flame Golem_71: -4138513423764852630
+      Flame Golem_72: -6323465103686392369
+      Flame Golem_73: -909763004895202199
+      Flame Golem_74: 7841339923245398290
+      Flame Golem_75: 4078676052934722103
+      Flame Golem_76: -8020467606119841193
+      Flame Golem_77: -3996947849555988100
+      Flame Golem_78: 2643226424340320361
+      Flame Golem_79: -189638782202044766
+      Flame Golem_8: 8293294126570344516
+      Flame Golem_80: -8905532193840527612
+      Flame Golem_81: -8298360061603570029
+      Flame Golem_82: 3964122529568485205
+      Flame Golem_83: -4758542246324148389
+      Flame Golem_84: -3411154935320267784
+      Flame Golem_85: -8539557269204359275
+      Flame Golem_86: -5456286583426726604
+      Flame Golem_87: 2066587348338541751
+      Flame Golem_88: -6517765148822337873
+      Flame Golem_89: 519666641502866396
+      Flame Golem_9: 8211043643737627566
+      Flame Golem_90: 5790614926244682168
+      Flame Golem_91: 2694007062990175304
+      Flame Golem_92: 7274670640778496332
+      Flame Golem_93: -3527915255703919474
+      Flame Golem_94: -3975273706681559295
+      Flame Golem_95: -1934320249135979378
+      Flame Golem_96: -5186911238543587643
+      Flame Golem_97: -7538140066922294042
+      Flame Golem_98: 1307589171980926590
+      Flame Golem_99: 6165576610325475693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

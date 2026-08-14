@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: a1606441bb889cd4bba9768a319ea58b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2558174922173266856
+    second: Demon_C_0
+  - first:
+      213: 6464965116107292979
+    second: Demon_C_1
+  - first:
+      213: -4779554275855237082
+    second: Demon_C_2
+  - first:
+      213: 4817813139265339719
+    second: Demon_C_3
+  - first:
+      213: -7380568635687721134
+    second: Demon_C_4
+  - first:
+      213: 2513328340061824602
+    second: Demon_C_5
+  - first:
+      213: 3697277152222547054
+    second: Demon_C_6
+  - first:
+      213: 3487660069632338099
+    second: Demon_C_7
+  - first:
+      213: -2885087384571911921
+    second: Demon_C_8
+  - first:
+      213: -3638381841566308446
+    second: Demon_C_9
+  - first:
+      213: -7932758280168361987
+    second: Demon_C_10
+  - first:
+      213: 8530007227961272899
+    second: Demon_C_11
+  - first:
+      213: 2136687752033187554
+    second: Demon_C_12
+  - first:
+      213: -2769583930074753179
+    second: Demon_C_13
+  - first:
+      213: -1318507574140760733
+    second: Demon_C_14
+  - first:
+      213: -4571276277145727814
+    second: Demon_C_15
+  - first:
+      213: -2635734656102400167
+    second: Demon_C_16
+  - first:
+      213: -6704553186574732953
+    second: Demon_C_17
+  - first:
+      213: -7867188030434893906
+    second: Demon_C_18
+  - first:
+      213: -5533857196474113948
+    second: Demon_C_19
+  - first:
+      213: 5520955273739399686
+    second: Demon_C_20
+  - first:
+      213: -4377673934488683209
+    second: Demon_C_21
+  - first:
+      213: 5106077436951589498
+    second: Demon_C_22
+  - first:
+      213: 2624196452474311471
+    second: Demon_C_23
+  - first:
+      213: 6177969091340959744
+    second: Demon_C_24
+  - first:
+      213: -7988076647997886928
+    second: Demon_C_25
+  - first:
+      213: -2630397371368965233
+    second: Demon_C_26
+  - first:
+      213: 3300299540173871466
+    second: Demon_C_27
+  - first:
+      213: 8531840352911452916
+    second: Demon_C_28
+  - first:
+      213: 3362483446792023146
+    second: Demon_C_29
+  - first:
+      213: -5086921683642244541
+    second: Demon_C_30
+  - first:
+      213: 6828870459777269903
+    second: Demon_C_31
+  - first:
+      213: 6096674751348678085
+    second: Demon_C_32
+  - first:
+      213: 4104723792726125258
+    second: Demon_C_33
+  - first:
+      213: -6599228418271157674
+    second: Demon_C_34
+  - first:
+      213: 1780176993942301231
+    second: Demon_C_35
+  - first:
+      213: -8531147524949961544
+    second: Demon_C_36
+  - first:
+      213: 4164608474164279102
+    second: Demon_C_37
+  - first:
+      213: 1776174645035498568
+    second: Demon_C_38
+  - first:
+      213: -911703593494827807
+    second: Demon_C_39
+  - first:
+      213: 7006830712167698076
+    second: Demon_C_40
+  - first:
+      213: -6384789557759815362
+    second: Demon_C_41
+  - first:
+      213: 5284970133433490664
+    second: Demon_C_42
+  - first:
+      213: -9089112067341440294
+    second: Demon_C_43
+  - first:
+      213: 6316182678258689431
+    second: Demon_C_44
+  - first:
+      213: -8247236931544415943
+    second: Demon_C_45
+  - first:
+      213: -8109144109549152427
+    second: Demon_C_46
+  - first:
+      213: -5591939870286232774
+    second: Demon_C_47
+  - first:
+      213: 5367832677008721880
+    second: Demon_C_48
+  - first:
+      213: -3149277221642038422
+    second: Demon_C_49
+  - first:
+      213: 7538391152089110891
+    second: Demon_C_50
+  - first:
+      213: 8834808898636646383
+    second: Demon_C_51
+  - first:
+      213: -5603181421303212899
+    second: Demon_C_52
+  - first:
+      213: -6444847454350537543
+    second: Demon_C_53
+  - first:
+      213: -687330668975738113
+    second: Demon_C_54
+  - first:
+      213: -7905212533417981515
+    second: Demon_C_55
+  - first:
+      213: 6500949021605454962
+    second: Demon_C_56
+  - first:
+      213: 2094431618685880613
+    second: Demon_C_57
+  - first:
+      213: 3212719325165440561
+    second: Demon_C_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon_C_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 545
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854cc8a46798f7cd0800000000000000
+      internalID: -2558174922173266856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3310ede258b28b950800000000000000
+      internalID: 6464965116107292979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 546
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62003f295bc9badb0800000000000000
+      internalID: -4779554275855237082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 539
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741ce18368f4cd240800000000000000
+      internalID: 4817813139265339719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 539
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a1750ee3f29990800000000000000
+      internalID: -7380568635687721134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 539
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ae412fc221e220800000000000000
+      internalID: 2513328340061824602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 539
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c846e1bfd5f4330800000000000000
+      internalID: 3697277152222547054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 539
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8efbbda58a66030800000000000000
+      internalID: 3487660069632338099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 445
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0161a04f4c16f7d0800000000000000
+      internalID: -2885087384571911921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a76538fdfed18dc0800000000000000
+      internalID: -3638381841566308446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 446
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa68daf5e29e190800000000000000
+      internalID: -7932758280168361987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 439
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a6522416ca06670800000000000000
+      internalID: 8530007227961272899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 439
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6bdd7903a07ad10800000000000000
+      internalID: 2136687752033187554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 439
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5679348e6167099d0800000000000000
+      internalID: -2769583930074753179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 439
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d8da9d858b3bde0800000000000000
+      internalID: -1318507574140760733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 439
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc0f8212709f80c0800000000000000
+      internalID: -4571276277145727814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 345
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f74d48b4dfb6bd0800000000000000
+      internalID: -2635734656102400167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761ff782664a4f2a0800000000000000
+      internalID: -6704553186574732953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 346
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf19b02b2222d290800000000000000
+      internalID: -7867188030434893906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460eb6e033ac333b0800000000000000
+      internalID: -5533857196474113948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 339
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6027e08f19f5e9c40800000000000000
+      internalID: 5520955273739399686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 345
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73db05020c06f33c0800000000000000
+      internalID: -4377673934488683209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72f221306e6cd640800000000000000
+      internalID: 5106077436951589498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 346
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23529a15c40b6420800000000000000
+      internalID: 2624196452474311471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00088b2082e8cb550800000000000000
+      internalID: 6177969091340959744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 346
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e2e7d7c96a42190800000000000000
+      internalID: -7988076647997886928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 339
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7e65f683fe7bd0800000000000000
+      internalID: -2630397371368965233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 245
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69d27032f40dcd20800000000000000
+      internalID: 3300299540173871466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 246
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa61abe89f276670800000000000000
+      internalID: 8531840352911452916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_29
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c6b2131e0f9ae20800000000000000
+      internalID: 3362483446792023146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 263
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342a54e2eaf9769b0800000000000000
+      internalID: -5086921683642244541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ce24908505ce50800000000000000
+      internalID: 6828870459777269903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 241
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd1b31826dbb9450800000000000000
+      internalID: 6096674751348678085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 244
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae88eaa88e6f830800000000000000
+      internalID: 4104723792726125258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_34
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 244
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652e841c7b4da64a0800000000000000
+      internalID: -6599228418271157674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 239
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ae0415b8574b810800000000000000
+      internalID: 1780176993942301231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 239
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b497e8a6864b9980800000000000000
+      internalID: -8531147524949961544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_37
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 239
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37b42b9759abc930800000000000000
+      internalID: 4164608474164279102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 238
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c7568dd6d36a810800000000000000
+      internalID: 1776174645035498568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_39
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 239
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec2b41896af853f0800000000000000
+      internalID: -911703593494827807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_40
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 241
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8d00b8634d3160800000000000000
+      internalID: 7006830712167698076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_41
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 238
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e315a1ca9bba467a0800000000000000
+      internalID: -6384789557759815362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_42
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 239
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1adbd55cf75940800000000000000
+      internalID: 5284970133433490664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 146
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa56e1bbcfcd180800000000000000
+      internalID: -9089112067341440294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795a51a6ea697a750800000000000000
+      internalID: 6316182678258689431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93100dcd4bdeb8d80800000000000000
+      internalID: -8247236931544415943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5571fdd7568867f80800000000000000
+      internalID: -8109144109549152427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 146
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33ce3ab0507562b0800000000000000
+      internalID: -5591939870286232774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7c6d6316f5e7a40800000000000000
+      internalID: 5367832677008721880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 146
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a631cc07d058b44d0800000000000000
+      internalID: -3149277221642038422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69183e00debd9860800000000000000
+      internalID: 7538391152089110891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_51
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 45
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe782bd62eb8b9a70800000000000000
+      internalID: 8834808898636646383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 49
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94572b2f208d32b0800000000000000
+      internalID: -5603181421303212899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 46
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0bd3f26d4f86a0800000000000000
+      internalID: -6444847454350537543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff23870f56c1676f0800000000000000
+      internalID: -687330668975738113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 47
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9c7af951b0b4290800000000000000
+      internalID: -7905212533417981515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_56
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 39
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27467bf01b2083a50800000000000000
+      internalID: 6500949021605454962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5294e1ed57ae01d10800000000000000
+      internalID: 2094431618685880613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_C_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ec48b543fd59c20800000000000000
+      internalID: 3212719325165440561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Demon_C_0: -2558174922173266856
+      Demon_C_1: 6464965116107292979
+      Demon_C_10: -7932758280168361987
+      Demon_C_11: 8530007227961272899
+      Demon_C_12: 2136687752033187554
+      Demon_C_13: -2769583930074753179
+      Demon_C_14: -1318507574140760733
+      Demon_C_15: -4571276277145727814
+      Demon_C_16: -2635734656102400167
+      Demon_C_17: -6704553186574732953
+      Demon_C_18: -7867188030434893906
+      Demon_C_19: -5533857196474113948
+      Demon_C_2: -4779554275855237082
+      Demon_C_20: 5520955273739399686
+      Demon_C_21: -4377673934488683209
+      Demon_C_22: 5106077436951589498
+      Demon_C_23: 2624196452474311471
+      Demon_C_24: 6177969091340959744
+      Demon_C_25: -7988076647997886928
+      Demon_C_26: -2630397371368965233
+      Demon_C_27: 3300299540173871466
+      Demon_C_28: 8531840352911452916
+      Demon_C_29: 3362483446792023146
+      Demon_C_3: 4817813139265339719
+      Demon_C_30: -5086921683642244541
+      Demon_C_31: 6828870459777269903
+      Demon_C_32: 6096674751348678085
+      Demon_C_33: 4104723792726125258
+      Demon_C_34: -6599228418271157674
+      Demon_C_35: 1780176993942301231
+      Demon_C_36: -8531147524949961544
+      Demon_C_37: 4164608474164279102
+      Demon_C_38: 1776174645035498568
+      Demon_C_39: -911703593494827807
+      Demon_C_4: -7380568635687721134
+      Demon_C_40: 7006830712167698076
+      Demon_C_41: -6384789557759815362
+      Demon_C_42: 5284970133433490664
+      Demon_C_43: -9089112067341440294
+      Demon_C_44: 6316182678258689431
+      Demon_C_45: -8247236931544415943
+      Demon_C_46: -8109144109549152427
+      Demon_C_47: -5591939870286232774
+      Demon_C_48: 5367832677008721880
+      Demon_C_49: -3149277221642038422
+      Demon_C_5: 2513328340061824602
+      Demon_C_50: 7538391152089110891
+      Demon_C_51: 8834808898636646383
+      Demon_C_52: -5603181421303212899
+      Demon_C_53: -6444847454350537543
+      Demon_C_54: -687330668975738113
+      Demon_C_55: -7905212533417981515
+      Demon_C_56: 6500949021605454962
+      Demon_C_57: 2094431618685880613
+      Demon_C_58: 3212719325165440561
+      Demon_C_6: 3697277152222547054
+      Demon_C_7: 3487660069632338099
+      Demon_C_8: -2885087384571911921
+      Demon_C_9: -3638381841566308446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

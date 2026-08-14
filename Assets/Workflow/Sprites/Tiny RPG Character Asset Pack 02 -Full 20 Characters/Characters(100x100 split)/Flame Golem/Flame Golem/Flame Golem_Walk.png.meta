@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 12cdf6e3a80a9fb4a84939b3dc569fc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5997023045747353809
+    second: Flame Golem_Walk_0
+  - first:
+      213: 1299224206657601990
+    second: Flame Golem_Walk_1
+  - first:
+      213: -687644996091963155
+    second: Flame Golem_Walk_2
+  - first:
+      213: 364810881167613770
+    second: Flame Golem_Walk_3
+  - first:
+      213: -8400536018443240373
+    second: Flame Golem_Walk_4
+  - first:
+      213: 7855508235299111904
+    second: Flame Golem_Walk_5
+  - first:
+      213: -8691477666020161292
+    second: Flame Golem_Walk_6
+  - first:
+      213: 4944127066536141119
+    second: Flame Golem_Walk_7
+  - first:
+      213: -2315476640989095846
+    second: Flame Golem_Walk_8
+  - first:
+      213: 4479889366313944670
+    second: Flame Golem_Walk_9
+  - first:
+      213: -776738751801054347
+    second: Flame Golem_Walk_10
+  - first:
+      213: -6236588597490923007
+    second: Flame Golem_Walk_11
+  - first:
+      213: 3417757821899252905
+    second: Flame Golem_Walk_12
+  - first:
+      213: -4683183214500701976
+    second: Flame Golem_Walk_13
+  - first:
+      213: 2889469743007032549
+    second: Flame Golem_Walk_14
+  - first:
+      213: 5117037508801432465
+    second: Flame Golem_Walk_15
+  - first:
+      213: -4008280597992873277
+    second: Flame Golem_Walk_16
+  - first:
+      213: -5200996206486908279
+    second: Flame Golem_Walk_17
+  - first:
+      213: 5958911138544168170
+    second: Flame Golem_Walk_18
+  - first:
+      213: -4795792033102535777
+    second: Flame Golem_Walk_19
+  - first:
+      213: 7702470958670021584
+    second: Flame Golem_Walk_20
+  - first:
+      213: 5671285238486514327
+    second: Flame Golem_Walk_21
+  - first:
+      213: 3014964505567797051
+    second: Flame Golem_Walk_22
+  - first:
+      213: -3901375940531662785
+    second: Flame Golem_Walk_23
+  - first:
+      213: 5359022677607876803
+    second: Flame Golem_Walk_24
+  - first:
+      213: 3311907914104018020
+    second: Flame Golem_Walk_25
+  - first:
+      213: -6182783589217223677
+    second: Flame Golem_Walk_26
+  - first:
+      213: 6106468262688624748
+    second: Flame Golem_Walk_27
+  - first:
+      213: -6654268812184724545
+    second: Flame Golem_Walk_28
+  - first:
+      213: 1765328209993347861
+    second: Flame Golem_Walk_29
+  - first:
+      213: 1665974370022869554
+    second: Flame Golem_Walk_30
+  - first:
+      213: -4148119882804448120
+    second: Flame Golem_Walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame Golem_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d560405b46cca0800000000000000
+      internalID: -5997023045747353809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 42
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c14a694885c70210800000000000000
+      internalID: 1299224206657601990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de81d54f48ef476f0800000000000000
+      internalID: -687644996091963155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 42
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f51364091101500800000000000000
+      internalID: 364810881167613770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 42
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf0d9cffc4b6b80800000000000000
+      internalID: -8400536018443240373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3c827ae1f540d60800000000000000
+      internalID: 7855508235299111904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 43
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f880a7bc1ba16780800000000000000
+      internalID: -8691477666020161292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 42
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31e7453f511d9440800000000000000
+      internalID: 4944127066536141119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5851205346cddfd0800000000000000
+      internalID: -2315476640989095846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 43
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564138a4a3cb2e30800000000000000
+      internalID: 4479889366313944670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 42
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b2e9778387835f0800000000000000
+      internalID: -776738751801054347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 43
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a4d44a6bf2379a0800000000000000
+      internalID: -6236588597490923007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a42e9681a05e6f20800000000000000
+      internalID: 3417757821899252905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81d91ddadf10fb0800000000000000
+      internalID: -4683183214500701976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 43
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e46c251c65791820800000000000000
+      internalID: 2889469743007032549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b8576c08e530740800000000000000
+      internalID: 5117037508801432465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c26b8c680abf58c0800000000000000
+      internalID: -4008280597992873277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 43
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982913a918952d7b0800000000000000
+      internalID: -5200996206486908279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec2b0ddb1e42b250800000000000000
+      internalID: 5958911138544168170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93664a1e8ce17db0800000000000000
+      internalID: -4795792033102535777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 43
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30a48078ca4ea60800000000000000
+      internalID: 7702470958670021584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 42
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ab7eb60e374be40800000000000000
+      internalID: 5671285238486514327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 43
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f97cc6e3e47d920800000000000000
+      internalID: 3014964505567797051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 42
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30da51a0478bd9c0800000000000000
+      internalID: -3901375940531662785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 44
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c884126bb21f5a40800000000000000
+      internalID: 5359022677607876803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 42
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46499fc53b246fd20800000000000000
+      internalID: 3311907914104018020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 46
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb7995517523aa0800000000000000
+      internalID: -6182783589217223677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6090cd08888eb450800000000000000
+      internalID: 6106468262688624748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 44
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd4c965c947a3a0800000000000000
+      internalID: -6654268812184724545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51331a467a4bf7810800000000000000
+      internalID: 1765328209993347861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a4e12ecdabe1710800000000000000
+      internalID: 1665974370022869554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Golem_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 43
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b4bbb1faee66c0800000000000000
+      internalID: -4148119882804448120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flame Golem_Walk_0: -5997023045747353809
+      Flame Golem_Walk_1: 1299224206657601990
+      Flame Golem_Walk_10: -776738751801054347
+      Flame Golem_Walk_11: -6236588597490923007
+      Flame Golem_Walk_12: 3417757821899252905
+      Flame Golem_Walk_13: -4683183214500701976
+      Flame Golem_Walk_14: 2889469743007032549
+      Flame Golem_Walk_15: 5117037508801432465
+      Flame Golem_Walk_16: -4008280597992873277
+      Flame Golem_Walk_17: -5200996206486908279
+      Flame Golem_Walk_18: 5958911138544168170
+      Flame Golem_Walk_19: -4795792033102535777
+      Flame Golem_Walk_2: -687644996091963155
+      Flame Golem_Walk_20: 7702470958670021584
+      Flame Golem_Walk_21: 5671285238486514327
+      Flame Golem_Walk_22: 3014964505567797051
+      Flame Golem_Walk_23: -3901375940531662785
+      Flame Golem_Walk_24: 5359022677607876803
+      Flame Golem_Walk_25: 3311907914104018020
+      Flame Golem_Walk_26: -6182783589217223677
+      Flame Golem_Walk_27: 6106468262688624748
+      Flame Golem_Walk_28: -6654268812184724545
+      Flame Golem_Walk_29: 1765328209993347861
+      Flame Golem_Walk_3: 364810881167613770
+      Flame Golem_Walk_30: 1665974370022869554
+      Flame Golem_Walk_31: -4148119882804448120
+      Flame Golem_Walk_4: -8400536018443240373
+      Flame Golem_Walk_5: 7855508235299111904
+      Flame Golem_Walk_6: -8691477666020161292
+      Flame Golem_Walk_7: 4944127066536141119
+      Flame Golem_Walk_8: -2315476640989095846
+      Flame Golem_Walk_9: 4479889366313944670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

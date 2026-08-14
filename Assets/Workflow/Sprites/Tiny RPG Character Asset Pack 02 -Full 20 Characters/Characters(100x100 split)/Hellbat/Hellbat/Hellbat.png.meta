@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 319148928df2a8a418f1444be98cc7db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7165126675723476208
+    second: Hellbat_0
+  - first:
+      213: -9124656446236704299
+    second: Hellbat_1
+  - first:
+      213: 3764641282580143569
+    second: Hellbat_2
+  - first:
+      213: -9046539697995629544
+    second: Hellbat_3
+  - first:
+      213: -6170071993109250871
+    second: Hellbat_4
+  - first:
+      213: -7706133189443116139
+    second: Hellbat_5
+  - first:
+      213: 1401894083647448796
+    second: Hellbat_6
+  - first:
+      213: -94233447960869353
+    second: Hellbat_7
+  - first:
+      213: 5501338744928783588
+    second: Hellbat_8
+  - first:
+      213: -2855501125234119810
+    second: Hellbat_9
+  - first:
+      213: -5584819129701868646
+    second: Hellbat_10
+  - first:
+      213: -2663433011112912453
+    second: Hellbat_11
+  - first:
+      213: 4038898642454291890
+    second: Hellbat_12
+  - first:
+      213: 3092531367783806429
+    second: Hellbat_13
+  - first:
+      213: -7639441909046145151
+    second: Hellbat_14
+  - first:
+      213: 4188203896144396055
+    second: Hellbat_15
+  - first:
+      213: -7948682712432575465
+    second: Hellbat_16
+  - first:
+      213: -1831033960805505194
+    second: Hellbat_17
+  - first:
+      213: -6301526993466549501
+    second: Hellbat_18
+  - first:
+      213: 7193771228405134660
+    second: Hellbat_19
+  - first:
+      213: 6517072477982519194
+    second: Hellbat_20
+  - first:
+      213: -7402921653305067225
+    second: Hellbat_21
+  - first:
+      213: -3971392357586456512
+    second: Hellbat_22
+  - first:
+      213: -7486611264618392308
+    second: Hellbat_23
+  - first:
+      213: 7473215308354781288
+    second: Hellbat_24
+  - first:
+      213: -1304513606509848642
+    second: Hellbat_25
+  - first:
+      213: -6309288121702493775
+    second: Hellbat_26
+  - first:
+      213: -7520295845995183157
+    second: Hellbat_27
+  - first:
+      213: 3864587790641308133
+    second: Hellbat_28
+  - first:
+      213: 3756924468311469124
+    second: Hellbat_29
+  - first:
+      213: 3646183143748520910
+    second: Hellbat_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hellbat_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 449
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc5c25cfb4af6360800000000000000
+      internalID: 7165126675723476208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 450
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d145908e45be5180800000000000000
+      internalID: -9124656446236704299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 447
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd5f2fc41be3430800000000000000
+      internalID: 3764641282580143569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 447
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c3086431c347280800000000000000
+      internalID: -9046539697995629544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 445
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccf22476308f5aa0800000000000000
+      internalID: -6170071993109250871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 444
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593256b61b05e0590800000000000000
+      internalID: -7706133189443116139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 349
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62784dd37847310800000000000000
+      internalID: 1401894083647448796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 351
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160558ad2731bef0800000000000000
+      internalID: -94233447960869353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 352
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc290f07ea85c40800000000000000
+      internalID: 5501338744928783588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 348
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b21be0bd83f58d0800000000000000
+      internalID: -2855501125234119810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 345
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5057579cbe72b0800000000000000
+      internalID: -5584819129701868646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 348
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d091b9c5990bd0800000000000000
+      internalID: -2663433011112912453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 349
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5ab439aec0d0830800000000000000
+      internalID: 4038898642454291890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 348
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5b181e4e0eaea20800000000000000
+      internalID: 3092531367783806429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 249
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f82192f004bf590800000000000000
+      internalID: -7639441909046145151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 251
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ff794e04d7f1a30800000000000000
+      internalID: 4188203896144396055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 252
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cfa2ddf2b90b190800000000000000
+      internalID: -7948682712432575465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 252
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657e28a505cd696e0800000000000000
+      internalID: -1831033960805505194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 240
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b14eb169a7c88a0800000000000000
+      internalID: -6301526993466549501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_19
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 236
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445738861d865d360800000000000000
+      internalID: 7193771228405134660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 246
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6f99c3ea417a50800000000000000
+      internalID: 6517072477982519194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_21
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 236
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72934ba8af9834990800000000000000
+      internalID: -7402921653305067225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 246
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040bb5e21b7c2e8c0800000000000000
+      internalID: -3971392357586456512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 150
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c059bf878b63a1890800000000000000
+      internalID: -7486611264618392308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 150
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8608f786ab136b760800000000000000
+      internalID: 7473215308354781288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 150
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7115759cf65ede0800000000000000
+      internalID: -1304513606509848642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 150
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1d450a1e7e078a0800000000000000
+      internalID: -6309288121702493775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 49
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc38c95b5ca82a790800000000000000
+      internalID: -7520295845995183157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 40
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1ac70ce16c1a530800000000000000
+      internalID: 3864587790641308133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 41
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cadad16e6432430800000000000000
+      internalID: 3756924468311469124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hellbat_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 38
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbc52d3048d99230800000000000000
+      internalID: 3646183143748520910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hellbat_0: 7165126675723476208
+      Hellbat_1: -9124656446236704299
+      Hellbat_10: -5584819129701868646
+      Hellbat_11: -2663433011112912453
+      Hellbat_12: 4038898642454291890
+      Hellbat_13: 3092531367783806429
+      Hellbat_14: -7639441909046145151
+      Hellbat_15: 4188203896144396055
+      Hellbat_16: -7948682712432575465
+      Hellbat_17: -1831033960805505194
+      Hellbat_18: -6301526993466549501
+      Hellbat_19: 7193771228405134660
+      Hellbat_2: 3764641282580143569
+      Hellbat_20: 6517072477982519194
+      Hellbat_21: -7402921653305067225
+      Hellbat_22: -3971392357586456512
+      Hellbat_23: -7486611264618392308
+      Hellbat_24: 7473215308354781288
+      Hellbat_25: -1304513606509848642
+      Hellbat_26: -6309288121702493775
+      Hellbat_27: -7520295845995183157
+      Hellbat_28: 3864587790641308133
+      Hellbat_29: 3756924468311469124
+      Hellbat_3: -9046539697995629544
+      Hellbat_30: 3646183143748520910
+      Hellbat_4: -6170071993109250871
+      Hellbat_5: -7706133189443116139
+      Hellbat_6: 1401894083647448796
+      Hellbat_7: -94233447960869353
+      Hellbat_8: 5501338744928783588
+      Hellbat_9: -2855501125234119810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

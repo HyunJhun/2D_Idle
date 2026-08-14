@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: ead07f21cb486944e90ab9ba030a59ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -599110103267373896
+    second: Ghostfire_Attack02(No beam effects)_0
+  - first:
+      213: 81021710419597816
+    second: Ghostfire_Attack02(No beam effects)_1
+  - first:
+      213: -4674059931117679270
+    second: Ghostfire_Attack02(No beam effects)_2
+  - first:
+      213: 4810538393902826861
+    second: Ghostfire_Attack02(No beam effects)_3
+  - first:
+      213: -3485793961341550338
+    second: Ghostfire_Attack02(No beam effects)_4
+  - first:
+      213: 9064791691943331646
+    second: Ghostfire_Attack02(No beam effects)_5
+  - first:
+      213: 5187515244059323527
+    second: Ghostfire_Attack02(No beam effects)_6
+  - first:
+      213: -3976252818611341319
+    second: Ghostfire_Attack02(No beam effects)_7
+  - first:
+      213: -585813476492240319
+    second: Ghostfire_Attack02(No beam effects)_8
+  - first:
+      213: -1941982546539686946
+    second: Ghostfire_Attack02(No beam effects)_9
+  - first:
+      213: 7310782877666268569
+    second: Ghostfire_Attack02(No beam effects)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc866909888fa7f0800000000000000
+      internalID: -599110103267373896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f997acf0d8df1100800000000000000
+      internalID: 81021710419597816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 50
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d08d2c147622fb0800000000000000
+      internalID: -4674059931117679270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 50
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65c4f29e2772c240800000000000000
+      internalID: 4810538393902826861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 48
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef009065cd8ff9fc0800000000000000
+      internalID: -3485793961341550338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37c139340c9ccd70800000000000000
+      internalID: 9064791691943331646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c641d31a1cdf740800000000000000
+      internalID: 5187515244059323527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 50
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77689e02381d8c0800000000000000
+      internalID: -3976252818611341319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 50
+        width: 83
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1b053fb5ced7f0800000000000000
+      internalID: -585813476492240319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 53
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed35e79b921bc05e0800000000000000
+      internalID: -1941982546539686946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghostfire_Attack02(No beam effects)_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9955e450b4e157560800000000000000
+      internalID: 7310782877666268569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ghostfire_Attack02(No beam effects)_0: -599110103267373896
+      Ghostfire_Attack02(No beam effects)_1: 81021710419597816
+      Ghostfire_Attack02(No beam effects)_10: 7310782877666268569
+      Ghostfire_Attack02(No beam effects)_2: -4674059931117679270
+      Ghostfire_Attack02(No beam effects)_3: 4810538393902826861
+      Ghostfire_Attack02(No beam effects)_4: -3485793961341550338
+      Ghostfire_Attack02(No beam effects)_5: 9064791691943331646
+      Ghostfire_Attack02(No beam effects)_6: 5187515244059323527
+      Ghostfire_Attack02(No beam effects)_7: -3976252818611341319
+      Ghostfire_Attack02(No beam effects)_8: -585813476492240319
+      Ghostfire_Attack02(No beam effects)_9: -1941982546539686946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

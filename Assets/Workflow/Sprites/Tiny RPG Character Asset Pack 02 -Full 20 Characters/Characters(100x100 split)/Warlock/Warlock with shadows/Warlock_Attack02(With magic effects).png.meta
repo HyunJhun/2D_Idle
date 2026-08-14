@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 442cc690f00ba944895b5fc7c92dd66d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -540812317329854354
+    second: Warlock_Attack02(With magic effects)_0
+  - first:
+      213: -3859162722568320334
+    second: Warlock_Attack02(With magic effects)_1
+  - first:
+      213: -6689921862801113003
+    second: Warlock_Attack02(With magic effects)_2
+  - first:
+      213: -8530424085896094255
+    second: Warlock_Attack02(With magic effects)_3
+  - first:
+      213: -614297022157105188
+    second: Warlock_Attack02(With magic effects)_4
+  - first:
+      213: -627016490239699207
+    second: Warlock_Attack02(With magic effects)_5
+  - first:
+      213: 2746189754447645594
+    second: Warlock_Attack02(With magic effects)_6
+  - first:
+      213: -8815540798809904869
+    second: Warlock_Attack02(With magic effects)_7
+  - first:
+      213: -5404760816766541583
+    second: Warlock_Attack02(With magic effects)_8
+  - first:
+      213: -8811998879497311624
+    second: Warlock_Attack02(With magic effects)_9
+  - first:
+      213: -7511265692682040258
+    second: Warlock_Attack02(With magic effects)_10
+  - first:
+      213: -4019526552000408864
+    second: Warlock_Attack02(With magic effects)_11
+  - first:
+      213: -2172684942109312348
+    second: Warlock_Attack02(With magic effects)_12
+  - first:
+      213: -2938294133889108276
+    second: Warlock_Attack02(With magic effects)_13
+  - first:
+      213: 5083763590979230097
+    second: Warlock_Attack02(With magic effects)_14
+  - first:
+      213: -1669922922218583220
+    second: Warlock_Attack02(With magic effects)_15
+  - first:
+      213: 4417169320118230503
+    second: Warlock_Attack02(With magic effects)_16
+  - first:
+      213: -8571169448325368621
+    second: Warlock_Attack02(With magic effects)_17
+  - first:
+      213: -8845789927609745938
+    second: Warlock_Attack02(With magic effects)_18
+  - first:
+      213: 2937500284852614015
+    second: Warlock_Attack02(With magic effects)_19
+  - first:
+      213: -5682105963220094971
+    second: Warlock_Attack02(With magic effects)_20
+  - first:
+      213: 1322546931868238962
+    second: Warlock_Attack02(With magic effects)_21
+  - first:
+      213: 4427902065882523950
+    second: Warlock_Attack02(With magic effects)_22
+  - first:
+      213: 1035988096544610322
+    second: Warlock_Attack02(With magic effects)_23
+  - first:
+      213: 2673685399579473194
+    second: Warlock_Attack02(With magic effects)_24
+  - first:
+      213: -1392106832184947955
+    second: Warlock_Attack02(With magic effects)_25
+  - first:
+      213: 5428483610265387551
+    second: Warlock_Attack02(With magic effects)_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_0
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60f56f0016ae78f0800000000000000
+      internalID: -540812317329854354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 39
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bac2e653ff717ac0800000000000000
+      internalID: -3859162722568320334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 39
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550ce90b28f9823a0800000000000000
+      internalID: -6689921862801113003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 51
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1ab07d78dd9980800000000000000
+      internalID: -8530424085896094255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 39
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7debfec149977f0800000000000000
+      internalID: -614297022157105188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_5
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 39
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f653fef2d36c47f0800000000000000
+      internalID: -627016490239699207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_6
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 39
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b4baf180d6c1620800000000000000
+      internalID: 2746189754447645594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_7
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 39
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19e8f7a958e8a580800000000000000
+      internalID: -8815540798809904869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_8
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f02eac3cae6ef4b0800000000000000
+      internalID: -5404760816766541583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_9
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 63
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a2c6205bd75b580800000000000000
+      internalID: -8811998879497311624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_10
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 39
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ccb1e16af92c790800000000000000
+      internalID: -7511265692682040258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d3c6b5e5c738c0800000000000000
+      internalID: -4019526552000408864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aafbb87e8219d1e0800000000000000
+      internalID: -2172684942109312348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 39
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6fcef8d051937d0800000000000000
+      internalID: -2938294133889108276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 39
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19991621d082d8640800000000000000
+      internalID: 5083763590979230097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 39
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b01ea23fd33d8e0800000000000000
+      internalID: -1669922922218583220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_16
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed966ee710fc4d30800000000000000
+      internalID: 4417169320118230503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_17
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4b2ea7cc61d0980800000000000000
+      internalID: -8571169448325368621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_18
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb7178de07d3580800000000000000
+      internalID: -8845789927609745938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73bf3e02f814c820800000000000000
+      internalID: 2937500284852614015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_20
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50033264bba1521b0800000000000000
+      internalID: -5682105963220094971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_21
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2740ac86d61aa5210800000000000000
+      internalID: 1322546931868238962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_22
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 39
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2965290871137d30800000000000000
+      internalID: 4427902065882523950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_23
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 54
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21813165fa1906e00800000000000000
+      internalID: 1035988096544610322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_24
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25351384b6da1520800000000000000
+      internalID: 2673685399579473194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_25
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 41
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc83a363e3eace0800000000000000
+      internalID: -1392106832184947955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock_Attack02(With magic effects)_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 39
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1206ea0519d55b40800000000000000
+      internalID: 5428483610265387551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Warlock_Attack02(With magic effects)_0: -540812317329854354
+      Warlock_Attack02(With magic effects)_1: -3859162722568320334
+      Warlock_Attack02(With magic effects)_10: -7511265692682040258
+      Warlock_Attack02(With magic effects)_11: -4019526552000408864
+      Warlock_Attack02(With magic effects)_12: -2172684942109312348
+      Warlock_Attack02(With magic effects)_13: -2938294133889108276
+      Warlock_Attack02(With magic effects)_14: 5083763590979230097
+      Warlock_Attack02(With magic effects)_15: -1669922922218583220
+      Warlock_Attack02(With magic effects)_16: 4417169320118230503
+      Warlock_Attack02(With magic effects)_17: -8571169448325368621
+      Warlock_Attack02(With magic effects)_18: -8845789927609745938
+      Warlock_Attack02(With magic effects)_19: 2937500284852614015
+      Warlock_Attack02(With magic effects)_2: -6689921862801113003
+      Warlock_Attack02(With magic effects)_20: -5682105963220094971
+      Warlock_Attack02(With magic effects)_21: 1322546931868238962
+      Warlock_Attack02(With magic effects)_22: 4427902065882523950
+      Warlock_Attack02(With magic effects)_23: 1035988096544610322
+      Warlock_Attack02(With magic effects)_24: 2673685399579473194
+      Warlock_Attack02(With magic effects)_25: -1392106832184947955
+      Warlock_Attack02(With magic effects)_26: 5428483610265387551
+      Warlock_Attack02(With magic effects)_3: -8530424085896094255
+      Warlock_Attack02(With magic effects)_4: -614297022157105188
+      Warlock_Attack02(With magic effects)_5: -627016490239699207
+      Warlock_Attack02(With magic effects)_6: 2746189754447645594
+      Warlock_Attack02(With magic effects)_7: -8815540798809904869
+      Warlock_Attack02(With magic effects)_8: -5404760816766541583
+      Warlock_Attack02(With magic effects)_9: -8811998879497311624
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

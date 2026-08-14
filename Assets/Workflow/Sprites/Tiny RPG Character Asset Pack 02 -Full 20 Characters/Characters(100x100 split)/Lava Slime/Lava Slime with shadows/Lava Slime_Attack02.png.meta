@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 6dd82ad273af7ff408a34edab571d136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4086416091670894889
+    second: Lava Slime_Attack02_0
+  - first:
+      213: -6157350615540325735
+    second: Lava Slime_Attack02_1
+  - first:
+      213: 7009698221207079316
+    second: Lava Slime_Attack02_2
+  - first:
+      213: 4222029922875528314
+    second: Lava Slime_Attack02_3
+  - first:
+      213: 1434221324893322687
+    second: Lava Slime_Attack02_4
+  - first:
+      213: -1272974035292891261
+    second: Lava Slime_Attack02_5
+  - first:
+      213: -8020929345293919969
+    second: Lava Slime_Attack02_6
+  - first:
+      213: -4499028944518045538
+    second: Lava Slime_Attack02_7
+  - first:
+      213: 3373761566668928749
+    second: Lava Slime_Attack02_8
+  - first:
+      213: -4243735565333635714
+    second: Lava Slime_Attack02_9
+  - first:
+      213: 4415105329273417117
+    second: Lava Slime_Attack02_10
+  - first:
+      213: 527356742660348809
+    second: Lava Slime_Attack02_11
+  - first:
+      213: 632453911681655136
+    second: Lava Slime_Attack02_12
+  - first:
+      213: -758993516684931327
+    second: Lava Slime_Attack02_13
+  - first:
+      213: 2245868662170502592
+    second: Lava Slime_Attack02_14
+  - first:
+      213: 828023664247874500
+    second: Lava Slime_Attack02_15
+  - first:
+      213: 1087777329340729542
+    second: Lava Slime_Attack02_16
+  - first:
+      213: 1824649358199680559
+    second: Lava Slime_Attack02_17
+  - first:
+      213: 4966031309878125347
+    second: Lava Slime_Attack02_18
+  - first:
+      213: 1944839242199960588
+    second: Lava Slime_Attack02_19
+  - first:
+      213: 8707960922682609062
+    second: Lava Slime_Attack02_20
+  - first:
+      213: -8450895538866808190
+    second: Lava Slime_Attack02_21
+  - first:
+      213: -8861111399966658687
+    second: Lava Slime_Attack02_22
+  - first:
+      213: -5893886813603997518
+    second: Lava Slime_Attack02_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6248327322a47c0800000000000000
+      internalID: -4086416091670894889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992af2bfc32bc8aa0800000000000000
+      internalID: -6157350615540325735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994cb9a463774160800000000000000
+      internalID: 7009698221207079316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 39
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d01878d9a79a30800000000000000
+      internalID: 4222029922875528314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 39
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd7e8732b067e310800000000000000
+      internalID: 1434221324893322687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 42
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38752120cdc755ee0800000000000000
+      internalID: -1272974035292891261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 42
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19df35d14fefa090800000000000000
+      internalID: -8020929345293919969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 42
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e902dc7030d3091c0800000000000000
+      internalID: -4499028944518045538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 39
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6ba2a154202de20800000000000000
+      internalID: 3373761566668928749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 42
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dd893dcf83b15c0800000000000000
+      internalID: -4243735565333635714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 42
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9da64d97ea954d30800000000000000
+      internalID: 4415105329273417117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 40
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b5d24d92c815700800000000000000
+      internalID: 527356742660348809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_12
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 39
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06167965b7de6c800800000000000000
+      internalID: 632453911681655136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 42
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8b2bfa638775f0800000000000000
+      internalID: -758993516684931327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5cadc26adea2f10800000000000000
+      internalID: 2245868662170502592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_15
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ac15b22bbd7b00800000000000000
+      internalID: 828023664247874500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 39
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8c31eb7bf881f00800000000000000
+      internalID: 1087777329340729542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 42
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee2238ce4725910800000000000000
+      internalID: 1824649358199680559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e0c84a23eae440800000000000000
+      internalID: 4966031309878125347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_19
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c81909cf47dfa10800000000000000
+      internalID: 1944839242199960588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_20
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 39
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adca7a8254e8d870800000000000000
+      internalID: 8707960922682609062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_21
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 42
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a19eb384368ba80800000000000000
+      internalID: -8450895538866808190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_22
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fa2d14122070580800000000000000
+      internalID: -8861111399966658687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Slime_Attack02_23
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b856c09b25b43ea0800000000000000
+      internalID: -5893886813603997518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lava Slime_Attack02_0: -4086416091670894889
+      Lava Slime_Attack02_1: -6157350615540325735
+      Lava Slime_Attack02_10: 4415105329273417117
+      Lava Slime_Attack02_11: 527356742660348809
+      Lava Slime_Attack02_12: 632453911681655136
+      Lava Slime_Attack02_13: -758993516684931327
+      Lava Slime_Attack02_14: 2245868662170502592
+      Lava Slime_Attack02_15: 828023664247874500
+      Lava Slime_Attack02_16: 1087777329340729542
+      Lava Slime_Attack02_17: 1824649358199680559
+      Lava Slime_Attack02_18: 4966031309878125347
+      Lava Slime_Attack02_19: 1944839242199960588
+      Lava Slime_Attack02_2: 7009698221207079316
+      Lava Slime_Attack02_20: 8707960922682609062
+      Lava Slime_Attack02_21: -8450895538866808190
+      Lava Slime_Attack02_22: -8861111399966658687
+      Lava Slime_Attack02_23: -5893886813603997518
+      Lava Slime_Attack02_3: 4222029922875528314
+      Lava Slime_Attack02_4: 1434221324893322687
+      Lava Slime_Attack02_5: -1272974035292891261
+      Lava Slime_Attack02_6: -8020929345293919969
+      Lava Slime_Attack02_7: -4499028944518045538
+      Lava Slime_Attack02_8: 3373761566668928749
+      Lava Slime_Attack02_9: -4243735565333635714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

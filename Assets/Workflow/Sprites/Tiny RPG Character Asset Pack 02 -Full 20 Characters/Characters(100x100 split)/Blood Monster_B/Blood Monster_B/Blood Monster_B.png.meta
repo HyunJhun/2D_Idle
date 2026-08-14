@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 92ec7a188ddd1dd4986275656fd93ed8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3603485134738257609
+    second: Blood Monster_B_0
+  - first:
+      213: 1061954680935233923
+    second: Blood Monster_B_1
+  - first:
+      213: -3683806976982580299
+    second: Blood Monster_B_2
+  - first:
+      213: 7189855088878542199
+    second: Blood Monster_B_3
+  - first:
+      213: 4629800445697246548
+    second: Blood Monster_B_4
+  - first:
+      213: 2327510497021590938
+    second: Blood Monster_B_5
+  - first:
+      213: 9087352780951368498
+    second: Blood Monster_B_6
+  - first:
+      213: 7737251598310342541
+    second: Blood Monster_B_7
+  - first:
+      213: 4804301360628302513
+    second: Blood Monster_B_8
+  - first:
+      213: 7852523042403859128
+    second: Blood Monster_B_9
+  - first:
+      213: 3663654729596709366
+    second: Blood Monster_B_10
+  - first:
+      213: -46894594854402160
+    second: Blood Monster_B_11
+  - first:
+      213: 102565766484685447
+    second: Blood Monster_B_12
+  - first:
+      213: -3103592236942352608
+    second: Blood Monster_B_13
+  - first:
+      213: -8911209613357384068
+    second: Blood Monster_B_14
+  - first:
+      213: 711229660106542461
+    second: Blood Monster_B_15
+  - first:
+      213: -7738520872906805154
+    second: Blood Monster_B_16
+  - first:
+      213: 3040064863481517104
+    second: Blood Monster_B_17
+  - first:
+      213: 2239731409070838328
+    second: Blood Monster_B_18
+  - first:
+      213: 2524393745871896763
+    second: Blood Monster_B_19
+  - first:
+      213: 1030064049780299370
+    second: Blood Monster_B_20
+  - first:
+      213: 6708154597721989097
+    second: Blood Monster_B_21
+  - first:
+      213: 8519186514471681304
+    second: Blood Monster_B_22
+  - first:
+      213: -8715218134221836138
+    second: Blood Monster_B_23
+  - first:
+      213: 6814825795481108851
+    second: Blood Monster_B_24
+  - first:
+      213: -4141983614574958029
+    second: Blood Monster_B_25
+  - first:
+      213: -355081226191529838
+    second: Blood Monster_B_26
+  - first:
+      213: 309030991110383147
+    second: Blood Monster_B_27
+  - first:
+      213: 6595286018312273855
+    second: Blood Monster_B_28
+  - first:
+      213: 5520429581183254512
+    second: Blood Monster_B_29
+  - first:
+      213: -8239007409355253589
+    second: Blood Monster_B_30
+  - first:
+      213: -1072499697013254712
+    second: Blood Monster_B_31
+  - first:
+      213: -2054147105584191690
+    second: Blood Monster_B_32
+  - first:
+      213: 7206435733133767732
+    second: Blood Monster_B_33
+  - first:
+      213: 3828769854303174158
+    second: Blood Monster_B_34
+  - first:
+      213: -6351620324130736759
+    second: Blood Monster_B_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood Monster_B_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6797153a6220230800000000000000
+      internalID: 3603485134738257609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 444
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38935b4e722dcbe00800000000000000
+      internalID: 1061954680935233923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 444
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b309d3721d70ecc0800000000000000
+      internalID: -3683806976982580299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dd32f1c1f77c360800000000000000
+      internalID: 7189855088878542199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455cab2c9fa504040800000000000000
+      internalID: 4629800445697246548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9df6f1277afc4020800000000000000
+      internalID: 2327510497021590938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233b3491533cc1e70800000000000000
+      internalID: 9087352780951368498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 349
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7c1fb55d306b60800000000000000
+      internalID: 7737251598310342541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 350
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20d2a12ae4ca240800000000000000
+      internalID: 4804301360628302513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 359
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3d054a14c9fc60800000000000000
+      internalID: 7852523042403859128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 344
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9aa41d09ae7d230800000000000000
+      internalID: 3663654729596709366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 344
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09741db4d95695ff0800000000000000
+      internalID: -46894594854402160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 344
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7827f6d65036c6100800000000000000
+      internalID: 102565766484685447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 344
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f1465dd43dde4d0800000000000000
+      internalID: -3103592236942352608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 345
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e79ccf116055480800000000000000
+      internalID: -8911209613357384068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4f5c8b9bced900800000000000000
+      internalID: 711229660106542461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 247
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50b17b34404b9490800000000000000
+      internalID: -7738520872906805154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 247
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03456f9e2ea703a20800000000000000
+      internalID: 3040064863481517104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 247
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832d3f599df151f10800000000000000
+      internalID: 2239731409070838328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 244
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb089efacb2780320800000000000000
+      internalID: 2524393745871896763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 237
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661e07bbc58b4e00800000000000000
+      internalID: 1030064049780299370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 251
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef5f97b017281d50800000000000000
+      internalID: 6708154597721989097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 244
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81df1629ffa3a3670800000000000000
+      internalID: 8519186514471681304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_23
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 244
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6903aa938435d0780800000000000000
+      internalID: -8715218134221836138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_24
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 249
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37102d954ff139e50800000000000000
+      internalID: 6814825795481108851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_25
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 244
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a65c309d7b486c0800000000000000
+      internalID: -4141983614574958029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_26
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298917e818f721bf0800000000000000
+      internalID: -355081226191529838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a8b19c06e94400800000000000000
+      internalID: 309030991110383147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7a99b0b9278b50800000000000000
+      internalID: 6595286018312273855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff7cf1a4718c9c40800000000000000
+      internalID: 5520429581183254512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8919fc96a29ad80800000000000000
+      internalID: -8239007409355253589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c59fc93537bd11f0800000000000000
+      internalID: -1072499697013254712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e14f37143e73e0800000000000000
+      internalID: -2054147105584191690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434be123e17620460800000000000000
+      internalID: 7206435733133767732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 48
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ef67495e5822530800000000000000
+      internalID: 3828769854303174158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Monster_B_35
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 45
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9853900b7f28ad7a0800000000000000
+      internalID: -6351620324130736759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blood Monster_B_0: 3603485134738257609
+      Blood Monster_B_1: 1061954680935233923
+      Blood Monster_B_10: 3663654729596709366
+      Blood Monster_B_11: -46894594854402160
+      Blood Monster_B_12: 102565766484685447
+      Blood Monster_B_13: -3103592236942352608
+      Blood Monster_B_14: -8911209613357384068
+      Blood Monster_B_15: 711229660106542461
+      Blood Monster_B_16: -7738520872906805154
+      Blood Monster_B_17: 3040064863481517104
+      Blood Monster_B_18: 2239731409070838328
+      Blood Monster_B_19: 2524393745871896763
+      Blood Monster_B_2: -3683806976982580299
+      Blood Monster_B_20: 1030064049780299370
+      Blood Monster_B_21: 6708154597721989097
+      Blood Monster_B_22: 8519186514471681304
+      Blood Monster_B_23: -8715218134221836138
+      Blood Monster_B_24: 6814825795481108851
+      Blood Monster_B_25: -4141983614574958029
+      Blood Monster_B_26: -355081226191529838
+      Blood Monster_B_27: 309030991110383147
+      Blood Monster_B_28: 6595286018312273855
+      Blood Monster_B_29: 5520429581183254512
+      Blood Monster_B_3: 7189855088878542199
+      Blood Monster_B_30: -8239007409355253589
+      Blood Monster_B_31: -1072499697013254712
+      Blood Monster_B_32: -2054147105584191690
+      Blood Monster_B_33: 7206435733133767732
+      Blood Monster_B_34: 3828769854303174158
+      Blood Monster_B_35: -6351620324130736759
+      Blood Monster_B_4: 4629800445697246548
+      Blood Monster_B_5: 2327510497021590938
+      Blood Monster_B_6: 9087352780951368498
+      Blood Monster_B_7: 7737251598310342541
+      Blood Monster_B_8: 4804301360628302513
+      Blood Monster_B_9: 7852523042403859128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
