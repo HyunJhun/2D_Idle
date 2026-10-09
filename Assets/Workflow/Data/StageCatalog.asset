@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b440cf3db093bd84781ff4089e4c6be2, type: 3}
+  m_Name: StageCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::IdlePrototype.StageCatalog
+  bossTimeLimit: 45
+  stages:
+  - chapter: 1
+    section: 1
+    areaName: Silent Forest
+    monsterHealth: 24000
+    monsterAttack: 80
+    killsToClear: 3
+    goldReward: 150
+  - chapter: 1
+    section: 2
+    areaName: Silent Forest
+    monsterHealth: 32000
+    monsterAttack: 96
+    killsToClear: 3
+    goldReward: 300
+  - chapter: 1
+    section: 3
+    areaName: Silent Forest
+    monsterHealth: 40000
+    monsterAttack: 116
+    killsToClear: 3
+    goldReward: 450
+  - chapter: 1
+    section: 4
+    areaName: Silent Forest
+    monsterHealth: 50000
+    monsterAttack: 139
+    killsToClear: 3
+    goldReward: 600
+  - chapter: 1
+    section: 5
+    areaName: Silent Forest
+    monsterHealth: 180000
+    monsterAttack: 332
+    killsToClear: 1
+    goldReward: 5000
+  - chapter: 2
+    section: 1
+    areaName: Forgotten Ruins
+    monsterHealth: 200000
+    monsterAttack: 399
+    killsToClear: 3
+    goldReward: 900
+  - chapter: 2
+    section: 2
+    areaName: Forgotten Ruins
+    monsterHealth: 230000
+    monsterAttack: 478
+    killsToClear: 3
+    goldReward: 1050
+  - chapter: 2
+    section: 3
+    areaName: Forgotten Ruins
+    monsterHealth: 265000
+    monsterAttack: 574
+    killsToClear: 3
+    goldReward: 1200
+  - chapter: 2
+    section: 4
+    areaName: Forgotten Ruins
+    monsterHealth: 300000
+    monsterAttack: 688
+    killsToClear: 3
+    goldReward: 1350
+  - chapter: 2
+    section: 5
+    areaName: Forgotten Ruins
+    monsterHealth: 850000
+    monsterAttack: 1652
+    killsToClear: 1
+    goldReward: 10000

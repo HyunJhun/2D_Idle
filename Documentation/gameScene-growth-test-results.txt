@@ -1,0 +1,1 @@
+GROWTH_PLAY_MODE_PASSED: 9 quantity buttons and costs, atomic failure, stat reset/vitals, pointer-down single action, 2-second delay, 0.25-second unscaled repeats, release/click deduplication, exit/drag/focus/pause/disable cancellation, touch identity, keyboard submit.
