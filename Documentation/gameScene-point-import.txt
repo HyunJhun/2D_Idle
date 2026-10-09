@@ -1,0 +1,817 @@
+Assets/Workflow/Data/BattleGrass.png
+Assets/Workflow/Data/BattlePixel.png
+Assets/Workflow/Data/BattleStone.png
+Assets/Workflow/Sprites/Backgrounds/Tileset/Tiles.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Arrow(Projectile)/Arrow01(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Arrow(Projectile)/Arrow01(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Arrow(Projectile)/Arrow02(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Arrow(Projectile)/Arrow02(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Arrow(Projectile)/Arrow03(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Arrow(Projectile)/Arrow03(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Archer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Armored Axeman.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Armored Orc.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Armored Skeleton.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Bat.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Elite Orc.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Greatsword Skeleton.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Knight Templar.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Knight.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Lancer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Necromancer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Orc rider.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Orc.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Priest.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Skeleton Archer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Skeleton.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Slime.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Soldier.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Swordsman.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Werebear.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Werewolf.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Aseprite file/Wizard.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer/Archer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer/Archer_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer/Archer_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer/Archer_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer/Archer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer/Archer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer/Archer_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer with shadows/Archer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer with shadows/Archer_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer with shadows/Archer_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer with shadows/Archer_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer with shadows/Archer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer with shadows/Archer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer with shadows/Archer_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Archer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Arrow(projectile)/Arrow02(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Archer/Arrow(projectile)/Arrow02(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman/Armored Axeman_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman with shadows/Armored Axeman_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Axeman/Armored Axeman.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc/Armored Orc_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc with shadows/Armored Orc_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Orc/Armored Orc.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton/Armored Skeleton_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton with shadows/Armored Skeleton_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Armored Skeleton/Armored Skeleton.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat/Bat.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat/Bat_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat/Bat_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat/Bat_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat/Bat_Flying.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat/Bat_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat with shadows/Bat.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat with shadows/Bat_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat with shadows/Bat_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat with shadows/Bat_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat with shadows/Bat_Flying.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat with shadows/Bat_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Bat/Bat.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc/Elite Orc_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc with shadows/Elite Orc_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Elite Orc/Elite Orc.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton/Greatsword Skeleton_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton with shadows/Greatsword Skeleton_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Greatsword Skeleton/Greatsword Skeleton.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight/Knight_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight with shadows/Knight_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight/Knight.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Walk01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar/Knight Templar_Walk02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Walk01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar with shadows/Knight Templar_Walk02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Knight Templar/Knight Templar.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Walk01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer/Lancer_Walk02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Walk01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer with shadows/Lancer_Walk02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Lancer/Lancer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Magic(projectile)/Necromancer_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Magic(projectile)/Necromancer_Sumon_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Attack02(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_DEATH.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Summon(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Sumon_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer/Necromancer_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Attack02(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_DEATH.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Summon(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Sumon_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer with shadows/Necromancer_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Necromancer/Necromancer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc/Orc.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc/Orc_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc/Orc_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc/Orc_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc/Orc_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc/Orc_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc/Orc_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc with shadows/Orc.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc with shadows/Orc_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc with shadows/Orc_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc with shadows/Orc_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc with shadows/Orc_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc with shadows/Orc_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc with shadows/Orc_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc/Orc.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider/Orc rider_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider with shadows/Orc rider_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Orc rider/Orc rider.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Magic(projectile)/Priest_Attack_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Magic(projectile)/Priest_Heal_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Attack(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Attack.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Attack_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Heal(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Heal.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Heal_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest/Priest_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Attack(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Attack.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Attack_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Heal(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Heal.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Heal_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest with shadows/Priest_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Priest/Priest.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton/Skeleton_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton with shadows/Skeleton_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton/Skeleton.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Arrow(projectile)/Arrow03(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Arrow(projectile)/Arrow03(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer/Skeleton Archer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer/Skeleton Archer_Attack.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer/Skeleton Archer_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer/Skeleton Archer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer/Skeleton Archer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer/Skeleton Archer_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer/Skeleton Archer_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer with shadows/Skeleton Archer.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer with shadows/Skeleton Archer_Attack.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer with shadows/Skeleton Archer_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer with shadows/Skeleton Archer_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer with shadows/Skeleton Archer_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer with shadows/Skeleton Archer_Summon.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer with shadows/Skeleton Archer_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Skeleton Archer/Skeleton Archer.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime/Slime.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime/Slime_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime/Slime_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime/Slime_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime/Slime_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime/Slime_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime/Slime_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime with shadows/Slime.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime with shadows/Slime_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime with shadows/Slime_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime with shadows/Slime_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime with shadows/Slime_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime with shadows/Slime_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime with shadows/Slime_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Slime/Slime.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Arrow(projectile)/Arrow01(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Arrow(projectile)/Arrow01(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier/Soldier_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Soldier/Soldier.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman_Attack3.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman/Swordsman_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman_Attack3.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman with shadows/Swordsman_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Swordsman/Swordsman.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear/Werebear_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear with shadows/Werebear_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werebear/Werebear.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf/Werewolf.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf/Werewolf_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf/Werewolf_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf/Werewolf_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf/Werewolf_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf/Werewolf_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf/Werewolf_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf with shadows/Werewolf.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf with shadows/Werewolf_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf with shadows/Werewolf_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf with shadows/Werewolf_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf with shadows/Werewolf_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf with shadows/Werewolf_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf with shadows/Werewolf_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Werewolf/Werewolf.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Magic(projectile)/Wizard_Attack01_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Magic(projectile)/Wizard_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Attack01(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Attack01_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Attack02(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard/Wizard_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Attack01(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Attack01_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Attack02(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard with shadows/Wizard_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Characters(100x100 split)/Wizard/Wizard.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Magic(Projectile)/Necromancer_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Magic(Projectile)/Necromancer_Sumon_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Magic(Projectile)/Priest_Attack_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Magic(Projectile)/Priest_Heal_effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Magic(Projectile)/Wizard_Attack01_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 01 v2.0 -Full 22 Characters/Magic(Projectile)/Wizard_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Black Knight_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Black Knight_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Black Knight_C.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Blood Monster_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Blood Monster_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Demon_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Demon_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Demon_C.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Demon_D.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Demon_E.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Demoness_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Demoness_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Eyeball Monster.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Flame Golem.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Ghostfire.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Hellbat.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Hellhound.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Lava Slime.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Minotaur.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Aseprite file/Warlock.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A/Black Knight_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A with shadows/Black Knight_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_A/Black Knight_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B/Black Knight_B_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Block.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B with shadows/Black Knight_B_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Black Knight_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Cannonball(projectile)/Cannonball_Black Knight_B_Attack03(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_B/Cannonball(projectile)/Cannonball_Black Knight_B_Attack03(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Beam(projectile)/Black Knight_C_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Attack03(No beam effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C/Black Knight_C_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Attack03(No beam effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C with shadows/Black Knight_C_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Black Knight_C/Black Knight_C.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_A/Blood Monster_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_B/Blood Monster_B/Blood Monster_B.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_B/Blood Monster_B/Blood Monster_B_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_B/Blood Monster_B/Blood Monster_B_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_B/Blood Monster_B/Blood Monster_B_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_B/Blood Monster_B/Blood Monster_B_Flying.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_B/Blood Monster_B/Blood Monster_B_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Blood Monster_B/Blood Monster_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A/Demon_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_A/Demon_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Arrow(projectile)/Arrow_Demon_B_Attack01(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Arrow(projectile)/Arrow_Demon_B_Attack01(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B/Demon_B.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B/Demon_B_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B/Demon_B_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B/Demon_B_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B/Demon_B_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B/Demon_B_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B/Demon_B_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B with shadows/Demon_B.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B with shadows/Demon_B_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B with shadows/Demon_B_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B with shadows/Demon_B_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B with shadows/Demon_B_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B with shadows/Demon_B_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B with shadows/Demon_B_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_B/Demon_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C/Demon_C.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C/Demon_C_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C/Demon_C_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C/Demon_C_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C/Demon_C_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C/Demon_C_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C/Demon_C_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C with shadows/Demon_C.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C with shadows/Demon_C_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C with shadows/Demon_C_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C with shadows/Demon_C_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C with shadows/Demon_C_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C with shadows/Demon_C_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C with shadows/Demon_C_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_C/Demon_C.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D/Demon_D_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D with shadows/Demon_D_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_D/Demon_D.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E/Demon_E_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E with shadows/Demon_E_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demon_E/Demon_E.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A/Demoness_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A with shadows/Demoness_A_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_A/Demoness_A.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B/Demoness_B.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B/Demoness_B_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B/Demoness_B_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B/Demoness_B_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B/Demoness_B_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B/Demoness_B_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B/Demoness_B_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B with shadows/Demoness_B.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B with shadows/Demoness_B_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B with shadows/Demoness_B_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B with shadows/Demoness_B_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B with shadows/Demoness_B_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B with shadows/Demoness_B_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B with shadows/Demoness_B_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Demoness_B/Demoness_B.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Beam(projectile)/Eyeball Monster_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Attack03(No beam effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster/Eyeball Monster_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Attack03(No beam effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster with shadows/Eyeball Monster_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Eyeball Monster/Eyeball Monster.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem/Flame Golem_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem with shadows/Flame Golem_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Flame Golem/Flame Golem.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Beam(projectile)/Ghostfire_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire_Attack02(No beam effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire_Flying.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire/Ghostfire_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire_Attack02(No beam effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire_Flying.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire with shadows/Ghostfire_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Ghostfire/Ghostfire.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat/Hellbat.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat/Hellbat_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat/Hellbat_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat/Hellbat_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat/Hellbat_Flying.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat/Hellbat_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat with shadows/Hellbat.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat with shadows/Hellbat_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat with shadows/Hellbat_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat with shadows/Hellbat_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat with shadows/Hellbat_Flying.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat with shadows/Hellbat_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellbat/Hellbat.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound/Hellhound.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound/Hellhound_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound/Hellhound_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound/Hellhound_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound/Hellhound_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound/Hellhound_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound/Hellhound_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound with shadows/Hellhound.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound with shadows/Hellhound_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound with shadows/Hellhound_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound with shadows/Hellhound_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound with shadows/Hellhound_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound with shadows/Hellhound_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound with shadows/Hellhound_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Hellhound/Hellhound.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Attack02(No spike effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Spike.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime/Lava Slime_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Attack02(No spike effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Spike.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime with shadows/Lava Slime_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Lava Slime.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Lava Slime/Spike(projectile)/Lava Slime_Spike.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur/Minotaur_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur_Attack03.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur with shadows/Minotaur_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Minotaur/Minotaur.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Magic(projectile)/Warlock_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Attack02(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock/Warlock_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Attack01.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Attack02(With magic effects).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Attack02.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Attack02_Effect.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Death.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Hurt.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Idle.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock with shadows/Warlock_Walk.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Characters(100x100 split)/Warlock/Warlock.aseprite
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Arrow_Demon_B_Attack01(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Arrow_Demon_B_Attack01(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Black Knight_C_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Cannonball_Black Knight_B_Attack03(32x32).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Cannonball_Black Knight_B_Attack03(100x100).png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Eyeball Monster_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Ghostfire_Beam.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Lava Slime_Spike.png
+Assets/Workflow/Sprites/Tiny RPG Character Asset Pack 02 -Full 20 Characters/Projectile/Warlock_Attack02_Effect.png
+Assets/Layer Lab/GUI Pro-SuperCasual/ResourcesData/Sprites/Demo/Demo_Character/SampleCharacter_Monster02_s.png
+Assets/Layer Lab/GUI Pro-SuperCasual/ResourcesData/Sprites/Demo/Demo_Character/SampleCharacter_Monster01_s.png
+Assets/Layer Lab/GUI Pro-SuperCasual/ResourcesData/Sprites/Demo/Demo_Image/Image_Demo_Gem01.png
+Assets/Layer Lab/GUI Pro-SuperCasual/ResourcesData/Sprites/Demo/Demo_Image/Image_Demo_Coin.png
+Assets/Layer Lab/GUI Pro-SuperCasual/ResourcesData/Sprites/Demo/Demo_Character/SampleCharacter03.png

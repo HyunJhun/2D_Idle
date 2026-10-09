@@ -1,0 +1,1 @@
+PLAY_MODE_PASSED: all 10 sections, both bosses, real Update movement/animation/attacks, serialized skill buttons; 26 kills; 128.5 game seconds. Verification ran at 8x; normal Play uses 1x.
